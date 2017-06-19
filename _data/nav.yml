@@ -1,0 +1,27 @@
+- title: Announcements & News
+  url: /updates/
+  absolute: False
+
+- title: Lectures
+  url: /lectures/
+  absolute: False
+
+- title: Tutorials
+  url: /tutorials/
+  absolute: False
+
+- title: Labs
+  url: /labs/
+  absolute: False
+
+- title: Piazza
+  url:  https://piazza.com/mail.utoronto.ca/fall2017/cscd27
+  absolute: True
+
+- title: Github
+  url: https://github.com/ThierrySans/CSCD27
+  absolute: True
+  
+- title: Feedback
+  url: https://goo.gl/forms/MQX6lX6CeohWFBJs1
+  absolute: True

@@ -1,0 +1,48 @@
+- week: Introduction
+  notes:
+      - Introduction: slides/D27-Introduction.pdf
+  readings:
+      - Security Engineering: http://www.cl.cam.ac.uk/~rja14/Papers/SE-01.pdf
+
+- week: Classic Cryptography
+
+- week: Cryptograph toolbox
+  readings:
+      - AES Standard: http://csrc.nist.gov/publications/fips/fips197/fips-197.pdf
+      - Rijndael Proposal for AES Competition: http://csrc.nist.gov/archive/aes/rijndael/Rijndael-ammended.pdf
+      - The original RSA paper: http://people.csail.mit.edu/rivest/Rsapaper.pdf
+      - Illustrated Guide to Secure Hash Functions: http://www.unixwiz.net/techtips/iguide-crypto-hashes.html
+
+- week: Cryptography protocols
+  readings:
+      - The original Diffie-Hellman paper: http://www-ee.stanford.edu/~hellman/publications/24.pdf
+      - Programming Satan’s Computer: https://www.cl.cam.ac.uk/~rja14/Papers/satan.pdf
+
+- week: Network Insecurity
+  readings:
+      - Intercepting Mobile Communications - The Insecurity of 802.11: http://www.cs.colorado.edu/~rhan/CSCI_7143_001_Fall_2002/Papers/Borisov2001_Insecure802_11.pdf
+
+- break: <span class="em">Spring Break</span>
+
+- week: Network Security
+  readings:
+      - The First Few Milliseconds of an HTTPS Connection: http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html
+      - The risks of mixed-content with HTTPS: https://www.youtube.com/watch?v=CSmacMZ0xZo
+
+- week: Authentication and Authorization
+
+- week: OS and Program Insecurity
+  readings: 
+     - Smashing The Stack For Fun And Profit: http://phrack.org/issues/49/14.html
+     
+- week: Protection
+
+- week: Malware
+  readings:
+      - Google Analysis of Web-based Malware: http://www.usenix.org/events/hotbots07/tech/full_papers/provos/provos.pdf
+
+- week: Web Security
+
+- week: Social Engineering
+  readings:
+      - Handcrafted Fraud and Extortion - Manual Account Hijacking in the Wild: http://services.google.com/fh/files/blogs/google_hijacking_study_2014.pdf

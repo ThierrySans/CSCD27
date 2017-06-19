@@ -1,0 +1,52 @@
+# Site settings
+ref: CSCD27
+title: Computer and Network Security
+edition: Fall 2017
+description: This course is meant to offer Computer Science undergraduate students a broad overview of the field of computer security. Students will learn the basic concepts in computer security including software vulnerability analysis and defense, networking security, applied cryptography. Students will also learn the fundamental methodology for how to design and analyze the security of critical systems.
+website: https://thierrysans.github.io/CSCD27/
+github: https://github.com/ThierrySans/CSCD27
+piazza: https://piazza.com/mail.utoronto.ca/fall2017/cscc27
+feedback: https://goo.gl/forms/MQX6lX6CeohWFBJs1
+
+instructor:
+  name: Thierry Sans
+  email: thierry.sans@utoronto.ca
+  website: http://www.qatar.cmu.edu/~tsans/
+  github: ThierrySans
+  twitter: ThierrySans
+  hours: TBD
+  location: IC-346
+  contact: Piazza only (no mail)
+  # hours: Thurs 10:00am-12:00pm
+
+assistants:
+    - name: TBD
+      role:  TBD
+      contact: TBD
+      hours: TBD
+      location: TBD
+  # - name: Colin Druery
+  #   role:  Teaching Assistant (PRA02)
+  #   contact: colin.druery@mail.utoronto.ca
+  #   location: IC-400A
+  #   hours: Wed 2:00pm-3:30pm
+  
+timings:
+    - section: LEC01 
+      time: Thursday 11:00-13:00
+      location: MW-170 
+    - section: PRA01
+      time: Monday 13:00-14:00
+      location: BV-473        
+    - section: PRA02
+      time: Tuesday 14:00-15:00
+      location: BV-473        
+    - section: PRA03
+      time: Friday 11:00-12:00
+      location: BV-473        
+    - section: PRA04
+      time: Friday 12:00-13:00
+      location: BV-473    
+        
+        
+first: 20170904
