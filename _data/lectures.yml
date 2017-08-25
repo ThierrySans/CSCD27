@@ -6,7 +6,7 @@
 
 - week: Classic Cryptography
 
-- week: Cryptograph toolbox
+- week: The Modern Cryptography Toolbox
   readings:
       - AES Standard: http://csrc.nist.gov/publications/fips/fips197/fips-197.pdf
       - Rijndael Proposal for AES Competition: http://csrc.nist.gov/archive/aes/rijndael/Rijndael-ammended.pdf

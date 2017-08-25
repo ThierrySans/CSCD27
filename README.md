@@ -1,4 +1,4 @@
-# [CSCD27 CSCD27 Computer and Network Security](https://thierrysans.github.io/CSCD27/)
+# [CSCD27 Computer and Network Security](https://thierrysans.github.io/CSCD27/)
 
 This is the source code for the CSCD27 course website.
 
@@ -50,7 +50,7 @@ A local server will be started on <http://localhost:4000>.
 To pull changes from the original repo, set up a remote to do so:
 
 ```shell
-$ git remote add upstream git@github.com:CSC309-Fall-2016/CSC309-Fall-2016.github.io.git
+$ git remote add upstream git@github.com:ThierrySans/CSCD27.git
 $ git pull upstream master
 $ git push origin master
 ```

@@ -67,13 +67,13 @@ We encourage you to post questions regarding course materials and assignments on
 
 <div class="grid">
     <div class="hrow row">
-        <div class="hcolumn column"></div>
+        <div class="hcolumn column4"></div>
         <div class="column4">Time</div>
         <div class="column4">Location</div>
     </div>
     {% for t in site.data.settings.timings %}
     <div class="row">
-        <div class="hcolumn column">{{t.section}}</div>
+        <div class="hcolumn column4">{{t.section}}</div>
         <div class="column4">{{t.time}}</div>
         <div class="column4">{{t.location}}</div>
     </div>

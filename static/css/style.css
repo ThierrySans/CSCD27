@@ -6928,12 +6928,6 @@ ul {
 }
 .grid .row .hcolumn {
   font-weight: bold;
-  position: relative;
-  float: left;
-  width: 16.66666667%;
-  min-height: 1px;
-  padding-left: 15px;
-  padding-right: 15px;
 }
 .grid .row .column1 {
   position: relative;
