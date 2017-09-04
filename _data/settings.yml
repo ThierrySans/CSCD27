@@ -34,19 +34,31 @@ assistants:
 timings:
     - section: LEC01 
       time: Thursday 11:00-13:00
-      location: MW-170 
+      location: MW 170 
     - section: PRA01
       time: Monday 13:00-14:00
-      location: BV-473        
+      location: BV 473        
     - section: PRA02
       time: Tuesday 14:00-15:00
-      location: BV-473        
+      location: BV 473        
     - section: PRA03
       time: Friday 11:00-12:00
-      location: BV-473        
+      location: BV 473        
     - section: PRA04
       time: Friday 12:00-13:00
-      location: BV-473    
+      location: BV 473
+    - section: TUT01
+      time: Monday 10:00-11:00
+      location: IC 326        
+    - section: TUT02
+      time: Thursday 10:00-11:00
+      location: AC 334        
+    - section: TUT03
+      time: Friday 10:00-11:00
+      location: AA 206        
+    - section: TUT04
+      time: Monday 12:00-13:00
+      location: HW 308    
         
         
 first: 20170904
