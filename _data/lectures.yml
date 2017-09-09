@@ -1,6 +1,8 @@
 - week: Introduction
   notes:
-      # - Introduction: slides/D27-Introduction.pdf
+      - Course Introduction: 01/CSCD27-Introduction.pdf
+      - Definitions: 01/CSCD27-Definitions.pdf
+      - Risk Management Analysis: 01/CSCD27-RiskManagementAnalysis.pdf
   readings:
       - Security Engineering: http://www.cl.cam.ac.uk/~rja14/Papers/SE-01.pdf
 

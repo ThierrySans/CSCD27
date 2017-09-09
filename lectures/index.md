@@ -30,7 +30,7 @@ permalink: /lectures/
                                     {% if pair[1] == nil %}
                                         <li>{{note}}</li>
                                     {% else %}
-                                        <li><a href="{{week_id}}/{{pair[1]}}">{{pair[0]}}</a></li>
+                                        <li><a href="{{pair[1]}}">{{pair[0]}}</a></li>
                                     {% endif %}
                                 {% endfor %}
         					{% endfor %}
