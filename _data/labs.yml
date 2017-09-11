@@ -1,7 +1,9 @@
 - week: no lab
 
+- week: Caesar Cipher
+  handout: 01/
+
 - week: Secure e-mail with Gnu Privacy Guard (GPG)
-  # handout: 2/
     
 - week: RC4 Implementation
     
@@ -20,7 +22,5 @@
 - week: Vulnerability discovering and exploitation
     
 - week: Web security
-
-- week: TBD
 
 - week: TBD
