@@ -57,9 +57,11 @@ $ docker run -v $(pwd):/shared python python3 /shared/hello.py`
 hello world
 ```
     
-# Implementing the Caesar Cipher
+# The Caesar Cipher
 
 As a small exercise, we are going to implement our first cryptographic scheme based on one of the earliest cipher called the [Caesar Cipher](https://learncryptography.com/classical-encryption/caesar-cipher). 
+
+## Implement the Caesar Cipher
 
 After reading and understanding the Caesar Cipher, copy the [starter code from the course repository on github](https://github.com/ThierrySans/CSCD27/tree/master/labs/01/src/) and complete the file `caesar26.py` to encrypt/decrypt message files that contain messages with lowercase english letters only `[a-z]` (no space nor punctuation). you can test your work with *Docker* as follows: 
 
