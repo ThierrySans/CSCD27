@@ -3,9 +3,7 @@ layout: default
 permalink: /labs/01/
 ---
 
-# Caesar Cipher
-
-## Introduction to Docker
+# Introduction to Docker
 
 Throughout the semester, we are going to attack and defend vulnerable systems. For scalability and security issues, we cannot perform these attacks on real computer systems. Instead, we are going to use *Docker* to run lightweight virtual machines locally (either on the lab machines or on your own computer).
 
@@ -59,7 +57,7 @@ $ docker run -v $(pwd):/shared python python3 /shared/hello.py`
 hello world
 ```
     
-## Implementing the Caesar Cipher
+# Implementing the Caesar Cipher
 
 As a small exercise, we are going to implement our first cryptographic scheme based on one of the earliest cipher called the [Caesar Cipher](https://learncryptography.com/classical-encryption/caesar-cipher). 
 

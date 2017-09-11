@@ -9,7 +9,7 @@ permalink: /tutorials/01/
 
 1. What is the difference between safety and security?
 
-2. Complete the security theatre diagram by adding a caption each arrow? 
+2. Complete the security theatre diagram by adding a caption verb on each arrow? 
 
 <div class="screenshot"><img src="media/security-theatre.png" alt="Main"/></div>
 
