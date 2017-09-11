@@ -59,11 +59,11 @@ hello world
     
 # The Caesar Cipher
 
-As a small exercise, we are going to implement our first cryptographic scheme based on one of the earliest cipher called the [Caesar Cipher](https://learncryptography.com/classical-encryption/caesar-cipher). 
+As a small exercise, we are going to implement our first cryptographic scheme based on one of the earliest cipher called the *Caesar Cipher*.
 
 ## Implement the Caesar Cipher
 
-After reading and understanding the Caesar Cipher, copy the [starter code from the course repository on github](https://github.com/ThierrySans/CSCD27/tree/master/labs/01/src/) and complete the file `caesar26.py` to encrypt/decrypt message files that contain messages with lowercase english letters only `[a-z]` (no space nor punctuation). you can test your work with *Docker* as follows: 
+After reading and understanding the [Caesar Cipher](https://learncryptography.com/classical-encryption/caesar-cipher), copy the [starter code from the course repository on github](https://github.com/ThierrySans/CSCD27/tree/master/labs/01/src/) and complete the file `caesar26.py` to encrypt/decrypt message files that contain messages with lowercase english letters only `[a-z]` (no space nor punctuation). you can test your work with *Docker* as follows: 
 
 - encrypt a file (called `plaintext.txt` for instance)
     
