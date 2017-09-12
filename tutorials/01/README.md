@@ -22,7 +22,7 @@ permalink: /tutorials/01/
 
 ## Risk Assessment Analysis
 
-4. Briefly explain the concept of risk exposure and explain how risk exposure are compared between each other (a.k.a triaging risk exposure)?
+4. Briefly explain the concept of risk exposure and explain how a risk exposure is compared to another (a.k.a triaging risk exposure)?
 
 5. Do the risk assessment analysis for
 
