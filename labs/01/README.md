@@ -53,7 +53,7 @@ By default, *Docker* does not share files between your computer and the containe
 
 ```
 $ echo "print(\"hello world\")" > hello.py
-$ docker run -v $(pwd):/shared python python3 /shared/hello.py`
+$ docker run -v $(pwd):/shared python python3 /shared/hello.py
 hello world
 ```
     
