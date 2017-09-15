@@ -1,11 +1,11 @@
 - week: no lab
 
 - week: Caesar Cipher
-  handout: 01/
+  handout: 02/
+
+- week: RC4
 
 - week: Secure e-mail with Gnu Privacy Guard (GPG)
-    
-- week: RC4 Implementation
     
 - week: Hash-length extension attack
     

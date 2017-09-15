@@ -1,11 +1,9 @@
 ---
 layout: default
-permalink: /tutorials/01/
+permalink: /tutorials/02/
 ---
 
-# Tutorial 1
-
-## Definitions
+# Definitions
 
 1. What is the difference between safety and security?
 
@@ -20,7 +18,7 @@ permalink: /tutorials/01/
 - \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ :  Information is **accessible** to legitimate users
 
 
-## Risk Assessment Analysis
+# Risk Assessment Analysis
 
 4. Briefly explain the concept of risk exposure and explain how a risk exposure is compared to another (a.k.a triaging risk exposure)?
 

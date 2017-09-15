@@ -6,7 +6,9 @@
   readings:
       - Security Engineering: http://www.cl.cam.ac.uk/~rja14/Papers/SE-01.pdf
 
-- week: Classic Cryptography
+- week: Classical Cryptography
+  notes:
+      - Classical Cryptography: 02/CSCD27-ClassicalCryptography.pdf
 
 - week: The Modern Cryptography Toolbox
   readings:

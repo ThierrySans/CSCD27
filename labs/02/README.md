@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /labs/01/
+permalink: /labs/02/
 ---
 
 # Introduction to Docker

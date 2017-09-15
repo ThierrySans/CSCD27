@@ -14,22 +14,32 @@ instructor:
   website: https://thierrysans.github.io/
   github: ThierrySans
   twitter: ThierrySans
-  hours: TBD
+  hours: Monday 3pm-5pm
   location: IC-346
   contact: Piazza only (no mail)
   # hours: Thurs 10:00am-12:00pm
 
 assistants:
-    - name: TBD
-      role:  TBD
-      contact: TBD
-      hours: TBD
-      location: TBD
-  # - name: Colin Druery
-  #   role:  Teaching Assistant (PRA02)
-  #   contact: colin.druery@mail.utoronto.ca
-  #   location: IC-400A
-  #   hours: Wed 2:00pm-3:30pm
+    - name: Edouard Magharian
+      role:  TA
+      contact: '&#101;&#100;&#111;&#117;&#097;&#114;&#100;&#046;&#109;&#097;&#103;&#104;&#097;&#114;&#105;&#097;&#110;&#064;&#117;&#116;&#111;&#114;&#111;&#110;&#116;&#111;&#046;&#099;&#097;'
+      hours: by appointment
+      location: ''
+    - name: Daniel Persaud
+      role:  TA
+      contact: '&#100;&#101;&#118;&#046;&#112;&#101;&#114;&#115;&#097;&#117;&#100;&#064;&#109;&#097;&#105;&#108;&#046;&#117;&#116;&#111;&#114;&#111;&#110;&#116;&#111;&#046;&#099;&#097;'
+      hours: by appointment
+      location: ''
+    - name: KC Udonsi 
+      role:  TA
+      contact: '&#107;&#099;&#046;&#117;&#100;&#111;&#110;&#115;&#105;&#064;&#109;&#097;&#105;&#108;&#046;&#117;&#116;&#111;&#114;&#111;&#110;&#116;&#111;&#046;&#099;&#097;'
+      hours: by appointment
+      location: ''
+    - name: Vladimir Efimov
+      role:  TA
+      contact: '&#118;&#108;&#097;&#100;&#105;&#109;&#105;&#114;&#046;&#101;&#102;&#105;&#109;&#111;&#118;&#064;&#109;&#097;&#105;&#108;&#046;&#117;&#116;&#111;&#114;&#111;&#110;&#116;&#111;&#046;&#099;&#097;'
+      hours: by appointment
+      location: ''
   
 timings:
     - section: LEC01 

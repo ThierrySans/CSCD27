@@ -38,23 +38,23 @@ We encourage you to post questions regarding course materials and assignments on
 
 <div class="grid">
     <div class="hrow row">
-        <div class="hcolumn column2"></div>
-        <div class="column2">Role</div>
+        <div class="hcolumn column3"></div>
+        <div class="column1">Role</div>
         <div class="column3">Office Hours</div>
         <div class="column2">Location</div>
         <div class="column3">Contact</div>
     </div>
     <div class="row">
-        <div class="hcolumn column2">Thierry Sans</div>
-        <div class="column2">Instructor</div>
+        <div class="hcolumn column3">Thierry Sans</div>
+        <div class="column1">Prof</div>
         <div class="column3">{{site.data.settings.instructor.hours}}</div>
         <div class="column2">{{site.data.settings.instructor.location}}</div>
         <div class="column3">{{site.data.settings.instructor.contact}}</div>
     </div>
     {% for a in site.data.settings.assistants %}
     <div class="row">
-        <div class="hcolumn column2">{{a.name}}</div>
-        <div class="column2">{{a.role}}</div>
+        <div class="hcolumn column3">{{a.name}}</div>
+        <div class="column1">{{a.role}}</div>
         <div class="column3">{{a.hours}}</div>
         <div class="column2">{{a.location}}</div>
         <div class="column3">{{a.contact}}</div>

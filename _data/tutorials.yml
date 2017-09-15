@@ -1,9 +1,10 @@
 - week: no tutorial
 
-- week: Risk Management Analysis of Security
-  handout: 01/
+- week: Risk Assessment Analysis
+  handout: 02/
     
 - week: Classical Cryptography
+  handout: 03/
     
 - week: Modern Cryptography
     
