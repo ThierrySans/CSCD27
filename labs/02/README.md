@@ -56,23 +56,3 @@ $ echo "print(\"hello world\")" > hello.py
 $ docker run -v $(pwd):/shared python python3 /shared/hello.py
 hello world
 ```
-    
-# The Caesar Cipher
-
-As a small exercise, we are going to implement our first cryptographic scheme based on one of the earliest cipher called the *Caesar Cipher*.
-
-## Implement the Caesar Cipher
-
-After reading and understanding the [Caesar Cipher](https://learncryptography.com/classical-encryption/caesar-cipher), copy the [starter code from the course repository on github](https://github.com/ThierrySans/CSCD27/tree/master/labs/02/src/) and complete the file `caesar26.py` to encrypt/decrypt message files that contain messages with lowercase english letters only `[a-z]` (no space nor punctuation). you can test your work with *Docker* as follows: 
-
-- encrypt a file (called `plaintext.txt` for instance)
-    
-  `$ docker run -v $(pwd):/shared python python3 /shared/main.py --encrypt --key 4 /shared/plaintext.txt`
-
-- decrypt a file (called `ciphertext.txt` for instance)
-    
-  `$docker run -v $(pwd):/shared python python3 /shared/main.py --decrypt --key 4 /shared/ciphertext.txt`
-
-## Submit your solution [coming soon sometimes this week]
-
-Make sure that your program works with *Docker*, it will be tested that way. Then, submit your solution to the *SecLab* application. 

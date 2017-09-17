@@ -22,9 +22,17 @@ permalink: /labs/
     <div class="week_id">{{week_id}}</div>
     <div class="date"></div>
 	<div class="topic">{{e.week}}</div>
-    {% if e.handout %}
-    <div class="notes"><a href="{{e.handout}}">handout</a></div>
-    {% endif %}
+    <div class="notes">
+        {% for note in e.notes %}
+            {% for pair in note %}
+                {% if pair[1] == nil %}
+                    <li>{{note}}</li>
+                {% else %}
+                    <li><a href="{{pair[1]}}">{{pair[0]}}</a></li>
+                {% endif %}
+            {% endfor %}
+		{% endfor %}
+    </div>
     {% endif %}
 </div>
 {% endfor %}

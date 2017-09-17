@@ -1,10 +1,13 @@
 - week: no lab
 
 - week: Caesar Cipher
-  handout: 02/
+  notes:
+      - introduction to docker: 02/
+      - caesar 26: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/caesar-26/
 
 - week: RC4
-  handout: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/rc4/
+  notes:
+      - rc4: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/rc4/
 
 - week: Secure e-mail with Gnu Privacy Guard (GPG)
     
