@@ -6,9 +6,10 @@
 - week: Classical Cryptography
   handout: 03/
     
-- week: Modern Cryptography
+- week: Symmetric Cryptography
+  handout: 03/
     
-- week: Breaking and fixing cryptography protocols
+- week: Assymmetric Cryptography
     
 - break: <span class="em">Reading Week</span>
     
