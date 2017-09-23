@@ -7,7 +7,7 @@
 
 - week: RC4
   notes:
-      - rc4: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/rc4/
+      - hash-length extension setup: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/hash-length-extension-setup/
 
 - week: Secure e-mail with Gnu Privacy Guard (GPG)
     
