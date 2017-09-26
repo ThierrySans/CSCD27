@@ -7,11 +7,13 @@
 
 - week: RC4
   notes:
-      - hash-length extension setup: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/hash-length-extension-setup/
+      - RC4: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/rc4/
+
+- week: Hashlength-extension attack setup
+  notes:
+      - hash length-extension attack setup: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/hash-length-extension-setup/
 
 - week: Secure e-mail with Gnu Privacy Guard (GPG)
-    
-- week: Hash-length extension attack
     
 - week: Host discovery and port scanning
     

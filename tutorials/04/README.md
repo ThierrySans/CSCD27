@@ -67,5 +67,3 @@ Let's consider a chosen-plaintext attack where the attacker (Mallory) has chosen
 Take a look at the *Needham-Shroeder* symmetric protocol seen in class.
 
 11. Why is Alice sending the nonce *Na* to the KDC? If she does not, can you show how an attacker could compromised the freshness of the session key *Kab*? Write down precisely the message exchanges between the different parties. 
-
-12. Same question with the nonce *Nb* sent by Bob to Alice?
