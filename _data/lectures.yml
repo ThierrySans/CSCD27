@@ -23,10 +23,15 @@
 
 
 - week: Public-key Cryptography, Digital Signatures and Protocols
+  notes:
+      - Asymmetric Encryption: 04/CSCD27-AsymmetricEncryption.pdf
+      - Digital Signatures: 04/CSCD27-DigitalSignatures.pdf
+      - Asymmetric Protocols: 04/CSCD27-AsymmetricProtocols.pdf
+      - Quantum Computing and Quantum Cryptography: 04/CSCD27-Quantum.pdf
   readings:
-      - The original Diffie-Hellman paper: http://www-ee.stanford.edu/~hellman/publications/24.pdf
       - The original RSA paper: http://people.csail.mit.edu/rivest/Rsapaper.pdf
       - Programming Satan’s Computer: https://www.cl.cam.ac.uk/~rja14/Papers/satan.pdf
+      - How does SSL/TLS work? : https://security.stackexchange.com/questions/20803/how-does-ssl-tls-work
 
 - week: Network Insecurity
   readings:
