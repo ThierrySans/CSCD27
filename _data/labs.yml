@@ -14,6 +14,8 @@
       - hash length-extension attack setup: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/hash-length-extension-setup/
 
 - week: Secure e-mail with Gnu Privacy Guard (GPG)
+  notes:
+      - The GNU Privacy Guard: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/gpg/
     
 - week: Host discovery and port scanning
     
