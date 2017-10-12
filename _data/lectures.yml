@@ -34,6 +34,8 @@
       - How does SSL/TLS work? : https://security.stackexchange.com/questions/20803/how-does-ssl-tls-work
 
 - week: Network Insecurity
+  notes:
+      - Internet (in)security: 05/CSCD27-InternetInsecurity.pdf
   readings:
       - Intercepting Mobile Communications - The Insecurity of 802.11: http://www.cs.colorado.edu/~rhan/CSCI_7143_001_Fall_2002/Papers/Borisov2001_Insecure802_11.pdf
 

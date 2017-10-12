@@ -1,0 +1,26 @@
+version: '3'
+
+services:
+  alice:
+    image: tutum/curl
+    container_name: alice
+    stdin_open: true
+    tty: true
+    networks:
+      channel:
+        ipv4_address: 192.168.0.2
+
+  mallory:
+      build: ./attacker
+      image: attacker
+      container_name: mallory
+      restart: always
+      network_mode: service:alice # Examine traffic of service bob
+      tty: true
+
+networks:
+  channel:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 192.168.0.0/28
