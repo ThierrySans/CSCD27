@@ -31,7 +31,7 @@ Assuming that an HTTP request is sent through the network stack as shown below:
 <img src="media/sending-messages.jpeg" alt="sending-messages" style="max-width: 500px;"/>
 
 
-**Question 3:** What are the most information that are added in: 
+**Question 3:** What are the most important pieces of info added in:
 
 1. the Ethernet header 
 2. the IP header
