@@ -53,11 +53,11 @@ As shown in the figure below, we consider three different scenarios in which Mal
 **Question 4:** Considering the attacks discussed earlier, explain in technical details how Mallory can either eavesdrop, hijack (MitM) or disrupt (DOS) the communication between Alice and Bob.
 
 
-| Host Setting           | Eavesdropping           | Hijaking                | DOS                    |
-| -----------------------|:-----------------------:|:-----------------------:|:-----------------------:
-| LAN                    |                         |                         |                        |
-| Route                  |                         |                         |                        |
-| Remote                 |                         |                         |                        |
+| Host Setting           | Eavesdropping           | Hijaking                | DOS                     |
+| -----------------------|:-----------------------:|:-----------------------:|:-----------------------:|
+| LAN                    |                         |                         |                         |
+| Route                  |                         |                         |                         |
+| Remote                 |                         |                         |                         |
 
 
 ## HTTPs as a counter-measure
