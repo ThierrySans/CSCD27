@@ -17,10 +17,8 @@
   notes:
       - The GNU Privacy Guard: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/gpg/
     
-- week: Host discovery and port scanning
-    
 - break: <span class="em">Reading Week</span>  
-    
+
 - week: Packet Sniffing
     
 - week: ARP spoofing and SSLstripping
@@ -30,5 +28,7 @@
 - week: Vulnerability discovering and exploitation
     
 - week: Web security
+
+- week: TBD
 
 - week: TBD
