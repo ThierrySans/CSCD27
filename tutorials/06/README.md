@@ -37,6 +37,16 @@ Assuming that an HTTP request is sent through the network stack as shown below:
 2. the IP header
 3. the TCP header
 
+## Network attacks
+
+**Question 4:** Considering these attacks, identify which protocol they target and briefly explain what they achieve
+
+- Packet sniffing
+- IP forgery
+- ARP-cache poisoning
+- Route hijacking
+- DNS spoofing
+
 ## Attacking the network
 
 Alice communicates via HTTP through the network. However, Mallory wants to either eavesdrop, hijack (MitM) or disrupt (DOS) the messages sent back and forth between the two.
@@ -50,8 +60,7 @@ As shown in the figure below, we consider three different scenarios in which Mal
 <img src="media/attacking-network.jpeg" alt="attacking-network" style="max-width: 500px;"/>
 
 
-**Question 4:** Considering the attacks discussed earlier, explain in technical details how Mallory can either eavesdrop, hijack (MitM) or disrupt (DOS) the communication between Alice and Bob.
-
+**Question 5:** Considering the attacks discussed earlier, explain in technical details how Mallory can either eavesdrop, hijack (MitM) or disrupt (DOS) the communication between Alice and Bob.
 
 <pre>
     
@@ -67,4 +76,4 @@ As shown in the figure below, we consider three different scenarios in which Mal
 
 Let us assume that Alice and Bob are exchanging messages securely via HTTPs. 
 
-**Question 5:** Would HTTPs defeat none, some or all attacks identified earlier? In your analyze, assume that Mallory cannot generate a valid certificate for Bob. 
+**Question 6:** Would HTTPs defeat none, some or all attacks identified earlier? In your analyze, assume that Mallory cannot generate a valid certificate for Bob. 
