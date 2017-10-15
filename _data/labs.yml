@@ -21,7 +21,7 @@
 
 - week: Packet Sniffing
   notes:
-      - The GNU Privacy Guard: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/packet-sniffing-wireshark/
+      - Wireshark: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/packet-sniffing-wireshark/
     
 - week: ARP spoofing and SSLstripping
 
