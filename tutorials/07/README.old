@@ -1,0 +1,85 @@
+The HTTPS protocol supports secure authentication of both clients and servers. If
+browsers provided client-certificates during the SSL handshake, could we eliminate password based
+authentication for secure Web services such as banking?
+
+The IP and TCP headers for HTTPS connections are encrypted and
+hashed so that attackers cannot tamper with the state of secure TCP connections.
+
+
+Suppose an attacker wants to conduct a MITM attack against hosts A and B using
+ARP. What ARP messages (include any necessary values) would the attacker send and to
+whom?
+
+Can an ARP MITM attack be mounted by a computer anywhere on the Internet, or do
+restrictions apply to the attacker’s network location? Explain briefly.
+
+
+How does a VPN
+connection differ from
+an HTTPS connection?
+
+
+Can an ISP access
+unencrypted IP/TCP
+headers for HTTPS
+requests?
+
+Can an ISP access
+unencrypted IP/TCP
+headers for HTTPS
+requests made over a
+VPN link?
+
+Suppose SSLStrip is upgraded to decrypt HTTPS. The upgrade works as follows:
+whenever a user U attempts to connect to an HTTPS server X, SSLStrip retrieves the certificate
+for server X, and forwards it back to user U. When user U responds with the HTTPS secret-key
+bits, SSLStrip can use the certificate to decrypt those key bits and then open its own HTTPS
+connection to the server X using that key material. Now SSLStrip can decrypt all traffic
+between the user U and server X. Will this scheme work? Explain briefly why/not.
+
+The SSLStrip application is not able to mount a MITM attack on an HTTPS
+connection when these conditions hold (choose 2):
+i. Client initiates an HTTPS session using a URL beginning with https:// in the location bar
+ii. Server redirects the client to a URL beginning https://
+iii. Client observes a padlock symbol on the relevant browser tab
+iv. Client is visiting an HSTS-supporting site, visited previously by the same browser
+v. HTTPS server delivers a document that include non-HTTPS-loaded content
+
+HTTPS: SSL and TLS
+
+A browser checks the validity of a server's public-key certificate by checking that certificate's CA signature(s) against a list of known/trusted CA public-key values.
+How does the browser defend against a MITM who presents a copy of a valid server's public-key certificate? After all, that valid copy will have verifiable CA signatures applied.
+
+An HTTPS server's RSA public-key certificate can serve 2 distinct purposes, in the context of HTTPS "CIA" properties. Briefly describe these 2 roles.
+Does this dual role create a problem for a server that wants to provide perfect-forward-secrecy (PFS) for its client connections? Explain briefly.
+
+What Internet transport-protocol does HTTPS rely upon?
+
+Does switching a Web-app from HTTP to HTTPS, require a lot of code changes?
+
+What security services (guarantees) are provided by HTTPS?
+
+Which algorithms are used by HTTPS to implement its security services (either list the algorithms or the process by which the list is determined)?
+
+Consider the SSL handshake phase:
+Is it encrypted? Why/not?
+
+What does the client say in the "ClientHello" message? (most important part)
+
+What does the server say in the "ServerHello" message? (2 most important parts)
+
+What response does the client send in response to the "ServerHello" message? (most important part)
+
+What is/are the role(s) of the server's public-key certificate in the handshake phase?
+
+Which secure algorithms are used to compute the key-material for symmetric encryption?
+
+What's the risk/harm in mixed-content documents, that is, a Web document loaded over HTTPS that refers to content loaded over HTTP?
+
+HTTPS itself is secure, but it is often used in a way that opens the door to MITM attacks such as SSL-stripping.
+Is this just a theoretic vulnerability, or do people commonly use HTTPS in the way that enables SSL-stripping to be effective?
+
+Could the use of client-side certificates (CA-certified public-keys in the browser, as we now have them for servers) make the use of user passwords obsolete? Why/not?
+
+The HTTPS certificate you created in Asst 2, using the D27 certificate-authority private key, was marked as insecure by browsers (e.g. https padlock marked with red X).
+Why should this be the case, when you used a valid private-key to sign your public key?
