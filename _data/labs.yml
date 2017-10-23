@@ -23,6 +23,10 @@
   notes:
       - Wireshark: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/packet-sniffing-wireshark/
     
+- week: Malicious Gateway
+  notes:
+      - Wireshark: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/gateway/
+
 - week: ARP spoofing and SSLstripping
 
 - week: Stack Smashing Attacks
@@ -30,7 +34,5 @@
 - week: Vulnerability discovering and exploitation
     
 - week: Web security
-
-- week: TBD
 
 - week: TBD
