@@ -1,0 +1,24 @@
+Authenticating Humans
+
+Give examples of what you "are", "know", "have", in the context of human authentication.
+
+Agree/disagree: the problem of human password authentication could be largely solved if we simply enforced strict rules on password strength (e.g. length, character mix) and lifetime (change often)?
+
+Which poses a greater challenge/risk, password entropy or the common password problem?
+
+When trying to crack passwords, how/why is a "dictionary" attack preferred by attackers rather than a simpler brute-force attack?
+
+What advantage does storing hashed user-passwords have over storing encrypted user-passwords (using e.g. 3DES with server secret-key as in Adobe breach discussed in class)?
+
+We looked at 2 mechanisms to mitigate offline password attacks: salt and shadow files. How does each of these make an attackers job harder/infeasible?
+Does salting make it harder to crack the password of an individual user? Why?
+
+Does salting make it harder to crack the password of all the users? Why?
+
+Suppose an attacker is able to steal a hashed-password file (like the "shadow" file); how could they determine whether salting had been used on these passwords?
+
+When a large data breach results in cracked/leaked user passwords, such as the 000Webhost case this month that resulted in about 13M customer names/emails/plaintext-passwords being exposed, why might a password hacker decide to incorporate all those passwords into their "dictionary" for future dictionary attacks?
+
+What is different between the password-phishing problem and the common-password problem? Which one is mitigated by solutions such as image-authentication for banking sites?
+
+List an advantage and a disadvantage of the pwdhash password-hashing scheme for protecting against the common-password problem.
