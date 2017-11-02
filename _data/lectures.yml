@@ -55,6 +55,8 @@
 - week: OS and Program Insecurity
   readings: 
      - Smashing The Stack For Fun And Profit: http://phrack.org/issues/49/14.html
+  notes:
+      - System Insecurity: 08/CSCD27-SystemInsecurity.pdf
      
 - week: Protection
 
