@@ -1,6 +1,8 @@
 # Generated static site
 _site
 
+*.nogit
+
 # OS Files
 Thumbs.db
 .DS_Store
