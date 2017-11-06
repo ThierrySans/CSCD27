@@ -31,9 +31,11 @@
   notes:
     - ARP Spoofing: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/arp-spoofing/
 
-- week: Stack Smashing Attacks
+- week: Vulnerability discovery and exploitation
+  notes:
+    - Penetration Testing: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/penetration-testing/  
     
-- week: Vulnerability discovering and exploitation
+- week: Stack Smashing Attacks
     
 - week: Web security
 
