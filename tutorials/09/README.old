@@ -1,0 +1,37 @@
+Buffer Overflows
+
+What input value would an attacker provide for this code, in order to overwrite the value of the authenticated variable (assuming the compiler does not reorder variables at compile time).
+
+```C
+char buffer[80];
+int authenticated = 0;
+void insecure() {
+  gets(buffer);
+  ...
+}
+```
+
+What kind of attack is this code vulnerable to, assuming *func_ptr references a function.
+Does the attacker supply attack-code in the overflow?
+
+char buffer[80];
+int (*func_ptr)();
+void insecure() {
+  gets(buffer);
+  ...
+}
+
+In a "stack smashing", what does the attacker aim to overwrite?
+
+Does the attacker supply attack-code in the overflow?
+
+In this code sample, will the same overflow value used above (1st code sample) work to change the value of authenticated? Why/not?
+
+void insecure(char *str) {
+  char buffer[80];
+  int authenticated = 0;
+  strcpy(buffer, str);
+  ...
+}
+
+
