@@ -36,6 +36,9 @@
     - Penetration Testing: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/penetration-testing/  
     
 - week: Stack Smashing Attacks
+  notes:
+    - Smashing the Stack (branching): https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/stack-smashing-branching/
+    - Smashing the Stack (shellcode): https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/stack-smashing-shellcode/
     
 - week: Web security
 
