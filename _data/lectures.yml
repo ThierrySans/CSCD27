@@ -59,8 +59,12 @@
       - System Insecurity: 08/CSCD27-SystemInsecurity.pdf
      
 - week: Protection
+  readings:
+      - Stack Overflows - Defeating Canaries, ASLR, DEP, NX: https://security.stackexchange.com/questions/20497/stack-overflows-defeating-canaries-aslr-dep-nx
 
-- week: Malware
+- week: Malicious Software
+  notes:
+      - Malicious Software: 10/CSCD27-MaliciousSoftware.pdf
   readings:
       - Google Analysis of Web-based Malware: http://www.usenix.org/events/hotbots07/tech/full_papers/provos/provos.pdf
 
