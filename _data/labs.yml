@@ -40,6 +40,8 @@
     - Smashing the Stack (branching): https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/stack-smashing-branching/
     - Smashing the Stack (shellcode): https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/stack-smashing-shellcode/
     
-- week: Web security
+- week: Malware
+  notes:
+    - Malware Debian Package: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/malware-debian-package/
 
-- week: TBD
+- week: Web security
