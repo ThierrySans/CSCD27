@@ -69,6 +69,8 @@
       - Google Analysis of Web-based Malware: http://www.usenix.org/events/hotbots07/tech/full_papers/provos/provos.pdf
 
 - week: Web Security
+  notes:
+      - Web Security: 11/CSCD27-WebSecurity.pdf
 
 - week: Social Engineering
   readings:
