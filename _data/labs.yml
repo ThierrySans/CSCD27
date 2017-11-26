@@ -45,3 +45,8 @@
     - Malware Debian Package: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/malware-debian-package/
 
 - week: Web security
+  notes:
+    - Incomplete Mediation: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/incomplete-mediation/
+    - Cross-Site Request Forgery: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/cross-site-request-forgery/
+    - Cross-site-Scripting: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/cross-site-scripting-session/
+    - SQL Injection: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/sql-injection-authentication/
