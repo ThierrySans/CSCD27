@@ -1,0 +1,57 @@
+Web Security
+
+What does a lying link say? How could you make one beginning "utsc.utoronto.ca"?
+
+The HTTP protocol is "stateless", which forces site/app developers to implement their own state-tracking mechanism. What does this have to do with security?
+Can you cite a couple examples of security snafu's that originated in attempts to track state?
+
+How could a browser-user modify the content of an HTML-form downloaded from a server?
+
+What is a "3rd-party cookie" and how does it enable an advertisement company like Doubleclick to compile a profile on you or your browser, containing information such as which sites you visit and what pages you viewed?
+
+Why must an authenticator-token cookie-value be tamper-proof and unforgeable?  example of tampering: Verizon Wireless token can be easily changed to that of another user, WSJ weak authenticator - exposed server secret key from token example of forgeability: Tomcat predictable sessionId - enables user to bypass unauthentication mechanism
+
+What qualifies as a "same origin" under the same-origin policy (SOP)?
+Why doesn't SOP prevent sites such as doubleclick.com from setting cookies on your browser, even though you don't have any tabs/browser-windows open to doubleclick.com?
+
+Can you list 3 HTML elements that are exempt from the SOP? (they appear on a tutorial handout)
+
+Is the UTSC Intranet vulnerable to CSRF attack?
+How could you find out?
+
+How are HTTP-header Referer, HTTP-header secret-token (e.g. X-CSRF-Token), and secret-token hidden-HTML-form-field employed to block CSRF?
+Why does the secret-token value have to be unpredictable and user-specific?
+
+Suppose you log onto your online banking site while you have other non-bank tabs open (not all of which you are 100% confident about).
+If you don't touch any of those other tabs while transacting business with the bank and then log out of your banking site before touching any of those other tabs, are you protected against CSRF?
+
+XSS stands for cross-site scripting. In what sense are such scripts "cross-site"?
+
+What is "side-jacking"? Is it dangerous?
+
+Which of these side-effects could an XSS attack lead to?
+Web page/app-view defacement
+theft of authentication-token cookie-value
+change settings on a Wifi router
+persist malicious XSS code in a Web site/app database
+injection of a keylogger into a victim Web page/app-view
+
+What's the difference between reflected and persistent XSS attacks?
+
+What must be done in order to prevent XSS attacks?
+
+SQL Injection
+
+Must an SQL-injection attacker have an account on the victim database server?
+
+What kind of damage can an SQL-injection attack cause? (damage could include both changes to database content and unauthorized information disclosure)
+
+Suppose a server contains the following code, intended to perform username-password authentication (authentication succeeds if the SELECT returns a non-empty result), where form("username") returns the string value of user-input form-field "username" (and similar for form("password").
+Give an example input string that an attacker could supply in the username form-field in order to bypass authentication.
+
+SELECT * FROM UserTable WHERE
+username=' " & form("username") & " ' AND
+password=' " & form("password") & " ' );
+Is black-listing or white-listing a safer approach to user-input validation? Why?
+
+How do prepared-statements prevent attack input-strings from being interpreted as SQL control statements?
