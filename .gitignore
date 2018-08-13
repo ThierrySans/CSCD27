@@ -2,6 +2,7 @@
 _site
 
 *.nogit
+*.old
 
 # OS Files
 Thumbs.db
