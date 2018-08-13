@@ -1,52 +1,52 @@
 - week: no lab
 
 - week: Caesar Cipher
-  notes:
-      - introduction to docker: 02/
-      - caesar 26: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/caesar-26/
+  # notes:
+  #     - introduction to docker: 02/
+  #     - caesar 26: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/caesar-26/
 
 - week: RC4
-  notes:
-      - RC4: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/rc4/
+  # notes:
+  #     - RC4: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/rc4/
 
-- week: Hashlength-extension attack setup
-  notes:
-      - hash length-extension attack setup: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/hash-length-extension-setup/
+- week: Hash length extension attack setup
+  # notes:
+  #     - hash length-extension attack setup: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/hash-length-extension-setup/
 
 - week: Secure e-mail with Gnu Privacy Guard (GPG)
-  notes:
-      - The GNU Privacy Guard: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/gpg/
+  # notes:
+  #     - The GNU Privacy Guard: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/gpg/
     
 - break: <span class="em">Reading Week</span>  
 
 - week: Packet Sniffing
-  notes:
-      - Wireshark: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/packet-sniffing-wireshark/
+  # notes:
+  #     - Wireshark: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/packet-sniffing-wireshark/
     
 - week: Malicious Gateway
-  notes:
-      - Wireshark: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/gateway/
+  # notes:
+  #     - Wireshark: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/gateway/
 
 - week: ARP spoofing
-  notes:
-    - ARP Spoofing: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/arp-spoofing/
+  # notes:
+  #   - ARP Spoofing: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/arp-spoofing/
 
 - week: Vulnerability discovery and exploitation
-  notes:
-    - Penetration Testing: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/penetration-testing/  
+  # notes:
+  #   - Penetration Testing: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/penetration-testing/  
     
 - week: Stack Smashing Attacks
-  notes:
-    - Smashing the Stack (branching): https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/stack-smashing-branching/
-    - Smashing the Stack (shellcode): https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/stack-smashing-shellcode/
+  # notes:
+  #   - Smashing the Stack (branching): https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/stack-smashing-branching/
+  #   - Smashing the Stack (shellcode): https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/stack-smashing-shellcode/
     
 - week: Malware
-  notes:
-    - Malware Debian Package: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/malware-debian-package/
+  # notes:
+  #   - Malware Debian Package: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/malware-debian-package/
 
 - week: Web security
-  notes:
-    - Incomplete Mediation: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/incomplete-mediation/
-    - Cross-Site Request Forgery: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/cross-site-request-forgery/
-    - Cross-site-Scripting: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/cross-site-scripting-session/
-    - SQL Injection: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/sql-injection-authentication/
+  # notes:
+  #   - Incomplete Mediation: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/incomplete-mediation/
+  #   - Cross-Site Request Forgery: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/cross-site-request-forgery/
+  #   - Cross-site-Scripting: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/cross-site-scripting-session/
+  #   - SQL Injection: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/sql-injection-authentication/

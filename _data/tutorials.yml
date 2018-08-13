@@ -1,36 +1,36 @@
 - week: no tutorial
 
 - week: Risk Assessment Analysis
-  handout: 02/
+  # handout: 02/
     
 - week: Classical Cryptography
-  handout: 03/
+  # handout: 03/
     
 - week: Symmetric Cryptography
-  handout: 04/
+  # handout: 04/
     
 - week: Assymmetric Cryptography
-  handout: 05/
+  # handout: 05/
     
 - break: <span class="em">Reading Week</span>
     
 - week: Network insecurity
-  handout: 06/
+  # handout: 06/
     
 - week: Network Security
-  handout: 07/
+  # handout: 07/
 
 - week: Passwords
-  handout: 08/
+  # handout: 08/
     
 - week: System Insecurity
-  handout: 09/
+  # handout: 09/
     
 - week: Stack Protection
-  handout: 10/
+  # handout: 10/
 
 - week: Protection and Malware
-  handout: 11/
+  # handout: 11/
 
 - week: Web Security
-  handout: 12/
+  # handout: 12/

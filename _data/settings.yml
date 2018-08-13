@@ -1,12 +1,12 @@
 # Site settings
 ref: CSCD27
 title: Computer and Network Security
-edition: Fall 2017
+edition: Fall 2018
 description: This course is meant to offer Computer Science undergraduate students a broad overview of the field of computer security. Students will learn the basic concepts in computer security including software vulnerability analysis and defense, networking security, applied cryptography. Students will also learn the fundamental methodology for how to design and analyze the security of critical systems.
 website: https://thierrysans.github.io/CSCD27/
 github: https://github.com/ThierrySans/CSCD27
-piazza: https://piazza.com/mail.utoronto.ca/fall2017/cscc27
-feedback: https://goo.gl/forms/MQX6lX6CeohWFBJs1
+piazza: https://piazza.com/mail.utoronto.ca/fall2018/cscd27
+feedback: https://goo.gl/forms/v9VMJLDywSltmMSt2
 
 instructor:
   name: Thierry Sans
@@ -14,37 +14,37 @@ instructor:
   website: https://thierrysans.github.io/
   github: ThierrySans
   twitter: ThierrySans
-  hours: Monday 3pm-5pm
+  hours: TBD
   location: IC-346
   contact: Piazza only (no mail)
   # hours: Thurs 10:00am-12:00pm
 
 assistants:
-    - name: Edouard Magharian
-      role:  TA
-      contact: '&#101;&#100;&#111;&#117;&#097;&#114;&#100;&#046;&#109;&#097;&#103;&#104;&#097;&#114;&#105;&#097;&#110;&#064;&#117;&#116;&#111;&#114;&#111;&#110;&#116;&#111;&#046;&#099;&#097;'
+    - name: Xuan Wei
+      role:  T01 & P04
+      contact: x.wei@mail.utoronto.ca
       hours: by appointment
-      location: ''
-    - name: Daniel Persaud
-      role:  TA
-      contact: '&#100;&#101;&#118;&#046;&#112;&#101;&#114;&#115;&#097;&#117;&#100;&#064;&#109;&#097;&#105;&#108;&#046;&#117;&#116;&#111;&#114;&#111;&#110;&#116;&#111;&#046;&#099;&#097;'
+      location:
+    - name: Shifeng Jin
+      role:  T02 & P02
+      contact: stone.jin@mail.utoronto.ca
       hours: by appointment
-      location: ''
-    - name: KC Udonsi 
-      role:  TA
-      contact: '&#107;&#099;&#046;&#117;&#100;&#111;&#110;&#115;&#105;&#064;&#109;&#097;&#105;&#108;&#046;&#117;&#116;&#111;&#114;&#111;&#110;&#116;&#111;&#046;&#099;&#097;'
+      location:
+    - name: Gobin Giritharan
+      role:  T03 & P03
+      contact: gobin.giritharan@mail.utoronto.ca
       hours: by appointment
-      location: ''
-    - name: Vladimir Efimov
-      role:  TA
-      contact: '&#118;&#108;&#097;&#100;&#105;&#109;&#105;&#114;&#046;&#101;&#102;&#105;&#109;&#111;&#118;&#064;&#109;&#097;&#105;&#108;&#046;&#117;&#116;&#111;&#114;&#111;&#110;&#116;&#111;&#046;&#099;&#097;'
+      location: 
+    - name: Tarun yellu
+      role:  T04 & P01
+      contact: tarunkumar.yellu@mail.utoronto.ca
       hours: by appointment
-      location: ''
+      location: 
   
 timings:
     - section: LEC01 
       time: Thursday 11:00-13:00
-      location: MW 170 
+      location: SW 143
     - section: PRA01
       time: Monday 13:00-14:00
       location: BV 473        
@@ -52,23 +52,23 @@ timings:
       time: Tuesday 14:00-15:00
       location: BV 473        
     - section: PRA03
-      time: Friday 11:00-12:00
+      time: Tuesday 10:00-11:00
       location: BV 473        
     - section: PRA04
-      time: Friday 12:00-13:00
+      time: Tuesday 16:00-17:00
       location: BV 473
     - section: TUT01
-      time: Monday 10:00-11:00
+      time: Tuesday 17:00-18:00
       location: IC 326        
     - section: TUT02
       time: Thursday 10:00-11:00
-      location: AC 334        
+      location: IC 320        
     - section: TUT03
-      time: Friday 10:00-11:00
-      location: AA 206        
+      time: Tuesday 12:00-13:00
+      location: AA 208        
     - section: TUT04
       time: Monday 12:00-13:00
-      location: HW 308    
+      location: AA 208    
         
         
-first: 20170904
+first: 20180903

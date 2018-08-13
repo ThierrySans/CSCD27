@@ -39,24 +39,21 @@ We encourage you to post questions regarding course materials and assignments on
 <div class="grid">
     <div class="hrow row">
         <div class="hcolumn column3"></div>
-        <div class="column1">Role</div>
+        <div class="column3">Role</div>
         <div class="column3">Office Hours</div>
-        <div class="column2">Location</div>
         <div class="column3">Contact</div>
     </div>
     <div class="row">
         <div class="hcolumn column3">Thierry Sans</div>
-        <div class="column1">Prof</div>
+        <div class="column3">Prof</div>
         <div class="column3">{{site.data.settings.instructor.hours}}</div>
-        <div class="column2">{{site.data.settings.instructor.location}}</div>
         <div class="column3">{{site.data.settings.instructor.contact}}</div>
     </div>
     {% for a in site.data.settings.assistants %}
     <div class="row">
         <div class="hcolumn column3">{{a.name}}</div>
-        <div class="column1">{{a.role}}</div>
+        <div class="column3">{{a.role}}</div>
         <div class="column3">{{a.hours}}</div>
-        <div class="column2">{{a.location}}</div>
         <div class="column3">{{a.contact}}</div>
     </div>
     {% endfor %}
@@ -96,7 +93,7 @@ We encourage you to post questions regarding course materials and assignments on
 
 ## Marking Scheme
 
-The numeric marks of CTF challenges and final exam will be used to compute a composite numeric score that will determine your final letter grade for the course. The weighting of course work is set as:
+The numeric marks of CTF challenges, quizzes and final exam will be used to compute a composite numeric score that will determine your final letter grade for the course. The weighting of course work is set as:
 
 <div class="grid">
     <div class="hrow row">
@@ -105,11 +102,15 @@ The numeric marks of CTF challenges and final exam will be used to compute a com
     </div>
     <div class="row">
         <div class="hcolumn column4">CTF challenges</div>
-        <div class="column4">65%</div>
+        <div class="column4">50%</div>
+    </div>
+    <div class="row">
+        <div class="hcolumn column4">Quizzes (2 bests out of 3)</div>
+        <div class="column4">10%</div>
     </div>
     <div class="row">
         <div class="hcolumn column4">Final Exam</div>
-        <div class="column4">35%</div>
+        <div class="column4">40%</div>
     </div>
 </div>
 
@@ -117,7 +118,7 @@ The numeric marks of CTF challenges and final exam will be used to compute a com
 
 Electronic copy must be submitted for all assignments, except where explicitly listed as optional for an assignment component. For assignment written work (non-programming), you may submit your document in PDF only.
 
-No late submissions will be accepted for any course work, and no make-up assignments will be provided for missed/poorly completed work. It is your responsibility to ensure that all work is completed on time and to the best of your ability.
+No late submissions will be accepted for any course work, and no make-up assignments (including quizzes) will be provided for missed/poorly completed work. It is your responsibility to ensure that all work is completed on time and to the best of your ability.
 
 If an emergency arises that prevents you from being able to complete any piece of work, or attend an exam, contact one of the instructors immediately. You will need to have a properly completed Illness Verification Form signed by a registered doctor in order to be given special consideration.
 

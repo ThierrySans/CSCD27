@@ -1,7 +1,3 @@
-- title: Announcements & News
-  url: /updates/
-  absolute: False
-
 - title: Lectures
   url: /lectures/
   absolute: False
