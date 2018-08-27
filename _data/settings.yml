@@ -26,12 +26,12 @@ assistants:
       hours: by appointment
       location:
     - name: Shifeng Jin
-      role:  T02 & P02
+      role:  T03 & P02
       contact: stone.jin@mail.utoronto.ca
       hours: by appointment
       location:
     - name: Gobin Giritharan
-      role:  T03 & P03
+      role:  T02 & P03
       contact: gobin.giritharan@mail.utoronto.ca
       hours: by appointment
       location: 
