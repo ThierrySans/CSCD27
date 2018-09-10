@@ -17,29 +17,29 @@ instructor:
   hours: TBD
   location: IC-346
   contact: Piazza only (no mail)
-  # hours: Thurs 10:00am-12:00pm
+  hours: Mon 2-4pm, Fri 9-11am
 
 assistants:
     - name: Xuan Wei
       role:  T01 & P04
       contact: x.wei@mail.utoronto.ca
-      hours: by appointment
-      location:
+      hours: Tue 6-6:30pm
+      location: BV-473
     - name: Shifeng Jin
       role:  T03 & P02
       contact: stone.jin@mail.utoronto.ca
-      hours: by appointment
-      location:
+      hours: Tue 3-3:30pm
+      location: BV-473
     - name: Gobin Giritharan
       role:  T02 & P03
       contact: gobin.giritharan@mail.utoronto.ca
-      hours: by appointment
-      location: 
+      hours: Tue 9:30-10am
+      location: BV-473
     - name: Tarun yellu
       role:  T04 & P01
       contact: tarunkumar.yellu@mail.utoronto.ca
-      hours: by appointment
-      location: 
+      hours: Mon 11-11:30am
+      location: BV-473
   
 timings:
     - section: LEC01 
