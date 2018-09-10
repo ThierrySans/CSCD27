@@ -1,9 +1,9 @@
 - week: no lab
 
 - week: Caesar Cipher
-  # notes:
-  #     - introduction to docker: 02/
-  #     - caesar 26: https://seclab.herokuapp.com/leagues/CSCD27F17/challenges/caesar-26/
+  notes:
+      - introduction to docker: 02/
+      - caesar 26: https://seclab.space/leagues/CSCD27F18/challenges/caesar-26/
 
 - week: RC4
   # notes:
