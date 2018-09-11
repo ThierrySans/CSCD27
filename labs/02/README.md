@@ -132,7 +132,7 @@ Here is a small Docker cheat sheet:
   $ docker build -t . Image_name
   ```
 
-- Get IP adresses 
+- Get IP addresses 
   ```
   $ docker ps -q | xargs docker inspect --format '{{ .Id }} - {{ .Name }} - {{ .NetworkSettings.IPAddress }}'
   ```
