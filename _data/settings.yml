@@ -23,23 +23,23 @@ assistants:
     - name: Xuan Wei
       role:  T01 & P04
       contact: x.wei@mail.utoronto.ca
-      hours: Tue 6-6:30pm
-      location: BV-473
+      hours: Fri 11-11:30am
+      location: IC-400
     - name: Shifeng Jin
       role:  T03 & P02
       contact: stone.jin@mail.utoronto.ca
       hours: Tue 3-3:30pm
-      location: BV-473
+      location: IC-400
     - name: Gobin Giritharan
       role:  T02 & P03
       contact: gobin.giritharan@mail.utoronto.ca
-      hours: Tue 9:30-10am
-      location: BV-473
+      hours: Thu 1-1:30pm
+      location: IC-400
     - name: Tarun yellu
       role:  T04 & P01
       contact: tarunkumar.yellu@mail.utoronto.ca
-      hours: Mon 11-11:30am
-      location: BV-473
+      hours: Tue 11-11:30am
+      location: IC-400
   
 timings:
     - section: LEC01 
