@@ -119,7 +119,7 @@ Here is a small Docker cheat sheet:
 
 - Show env variables:
   ```
-  $ docker inspect -f "{{ .Config.Env }}” container_name
+  $ docker inspect -f "{{ "{{ .Config.Env "}}}}" container_name
   ```
 
 - Show stats (with container name)
@@ -134,6 +134,6 @@ Here is a small Docker cheat sheet:
 
 - Get IP addresses 
   ```
-  $ docker ps -q | xargs docker inspect --format '{{ .Id }} - {{ .Name }} - {{ .NetworkSettings.IPAddress }}'
+  $ docker ps -q | xargs docker inspect --format '{{ "{{ .Id "}}}} - {{ "{{ .Name " }}}} - {{ "{{ .NetworkSettings.IPAddress " }}}}'
   ```
 
