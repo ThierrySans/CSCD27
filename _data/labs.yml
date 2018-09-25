@@ -12,12 +12,13 @@
 - week: Secure e-mail with Gnu Privacy Guard (GPG)
   notes:
       - The GNU Privacy Guard: https://seclab.space/leagues/CSCD27F18/challenges/gpg/
-    
-- break: <span class="em">Reading Week</span>  
+  
 
 - week: Packet Sniffing
   # notes:
   #     - Wireshark: https://seclab.space/leagues/CSCD27F18/challenges/packet-sniffing-wireshark/
+
+- break: <span class="em">Reading Week</span>
     
 - week: Malicious Gateway
   # notes:
