@@ -15,8 +15,8 @@
   
 
 - week: Packet Sniffing
-  # notes:
-  #     - Wireshark: https://seclab.space/leagues/CSCD27F18/challenges/packet-sniffing-wireshark/
+  notes:
+      - Wireshark: https://seclab.space/leagues/CSCD27F18/challenges/packet-sniffing/
 
 - break: <span class="em">Reading Week</span>
     
