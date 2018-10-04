@@ -2,7 +2,7 @@
 
 - week: Caesar Cipher
   notes:
-      - introduction to docker: 02/
+      - introduction to docker: ../doc/docker/
       - caesar 26: https://seclab.space/leagues/CSCD27F18/challenges/caesar-26/
 
 - week: RC4
