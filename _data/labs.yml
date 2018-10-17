@@ -20,9 +20,9 @@
 
 - break: <span class="em">Reading Week</span>
     
-- week: Malicious Gateway
-  # notes:
-  #     - Wireshark: https://seclab.space/leagues/CSCD27F18/challenges/gateway/
+- week: MScapy Spy
+  notes:
+      - Wireshark: https://seclab.space/leagues/CSCD27F18/challenges/scapy-spy/
 
 - week: ARP spoofing
   # notes:
