@@ -25,8 +25,8 @@
       - Wireshark: https://seclab.space/leagues/CSCD27F18/challenges/scapy-spy/
 
 - week: ARP spoofing
-  # notes:
-  #   - ARP Spoofing: https://seclab.space/leagues/CSCD27F18/challenges/arp-spoofing/
+  notes:
+    - ARP Spoofing: https://seclab.space/leagues/CSCD27F18/challenges/arp-spoofing/
 
 - week: Vulnerability discovery and exploitation
   # notes:
