@@ -49,8 +49,8 @@
       - The risks of mixed-content with HTTPS: https://www.youtube.com/watch?v=CSmacMZ0xZo
 
 - week: Authentication and Authorization
-  # notes:
-  #     - Human Authentication: 07/CSCD27-HumanAuthentication.pdf
+  notes:
+      - Human Authentication: 07/CSCD27-HumanAuthentication.pdf
 
 - week: OS and Program Insecurity
   readings: 
