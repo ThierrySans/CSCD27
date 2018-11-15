@@ -66,8 +66,8 @@
       - System Security: 09/CSCD27-Protection.pdf
 
 - week: Malicious Software
-  # notes:
-  #     - Malicious Software: 10/CSCD27-MaliciousSoftware.pdf
+  notes:
+      - Malicious Software: 10/CSCD27-MaliciousSoftware.pdf
   readings:
       - Google Analysis of Web-based Malware: http://www.usenix.org/events/hotbots07/tech/full_papers/provos/provos.pdf
 
