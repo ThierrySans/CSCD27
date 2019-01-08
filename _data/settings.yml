@@ -3,7 +3,7 @@ ref: CSCD27
 title: Computer and Network Security
 edition: Fall 2018
 description: This course is meant to offer Computer Science undergraduate students a broad overview of the field of computer security. Students will learn the basic concepts in computer security including software vulnerability analysis and defense, networking security, applied cryptography. Students will also learn the fundamental methodology for how to design and analyze the security of critical systems.
-website: https://thierrysans.github.io/CSCD27/
+website: https://thierrysans.me/CSCD27/
 github: https://github.com/ThierrySans/CSCD27
 piazza: https://piazza.com/mail.utoronto.ca/fall2018/cscd27
 feedback: https://goo.gl/forms/v9VMJLDywSltmMSt2
