@@ -6457,18 +6457,10 @@ button.close {
 .modal-header:after,
 .modal-footer:before,
 .modal-footer:after,
-#header #instructor:before,
-#header #instructor:after,
 #main:before,
 #main:after,
-.post:before,
-.post:after,
-.grid .row:before,
-.grid .row:after,
 .week:before,
-.week:after,
-.book:before,
-.book:after {
+.week:after {
   content: " ";
   display: table;
 }
@@ -6488,12 +6480,8 @@ button.close {
 .panel-body:after,
 .modal-header:after,
 .modal-footer:after,
-#header #instructor:after,
 #main:after,
-.post:after,
-.grid .row:after,
-.week:after,
-.book:after {
+.week:after {
   clear: both;
 }
 .center-block {
@@ -6749,15 +6737,15 @@ button.close {
   background-color: #fff1dd;
 }
 body {
-  min-height: 2000px;
+  min-height: auto;
   padding-top: 70px;
   font-family: Arial, Helvetica, sans-serif;
   text-align: justify;
 }
 footer {
   margin: 0px auto;
-  margin-top: 20px;
-  width: 800px;
+  margin-top: 50px;
+  max-width: 800px;
 }
 p,
 ul {
@@ -6765,6 +6753,10 @@ ul {
 }
 .navbar {
   padding-top: 25px;
+}
+.navbar-toggle {
+  line-height: 0;
+  padding: 4px 8px;
 }
 #utsc_logo {
   margin-top: -25px;
@@ -6774,6 +6766,7 @@ ul {
 #content {
   margin-top: 50px;
   min-height: 200px;
+  overflow-x: scroll;
 }
 #header {
   padding-top: 30px;
@@ -6819,96 +6812,72 @@ ul {
   }
 }
 #header h1 {
-  font-size: 42px;
+  font-size: 20px;
+}
+@media screen and (min-width: 768px) {
+  #header h1 {
+    font-size: 42px;
+  }
+}
+#header p {
+  font-size: 14px;
+}
+@media screen and (min-width: 768px) {
+  #header p {
+    font-size: 21px;
+  }
 }
 #header #instructor {
-  margin-left: -15px;
-  margin-right: -15px;
+  display: flex;
   font-size: 21px;
 }
 #header #instructor div:first-child {
-  position: relative;
-  float: left;
-  width: 16.66666667%;
-  min-height: 1px;
-  padding-left: 15px;
-  padding-right: 15px;
+  flex-grow: 1;
   font-weight: bold;
 }
 #header #instructor div:last-child {
-  position: relative;
-  float: left;
-  width: 83.33333333%;
-  min-height: 1px;
-  padding-left: 15px;
-  padding-right: 15px;
+  flex-grow: 5;
 }
 #main {
   margin-left: -15px;
   margin-right: -15px;
 }
 #main #syllabus {
-  position: relative;
-  float: left;
-  width: 66.66666667%;
-  min-height: 1px;
-  padding-left: 15px;
-  padding-right: 15px;
-  padding-left: 60px;
+  max-width: 800px;
 }
-#main #news {
-  position: relative;
-  float: left;
-  width: 33.33333333%;
-  min-height: 1px;
-  padding-left: 15px;
-  padding-right: 15px;
+@media screen and (min-width: 768px) {
+  #main #syllabus {
+    position: relative;
+    float: left;
+    width: 66.66666667%;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-left: 60px;
+    padding-right: 60px;
+  }
+}
+@media screen and (min-width: 768px) {
+  #main #news {
+    position: relative;
+    float: left;
+    width: 33.33333333%;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
 }
 .screenshot img {
   margin-left: auto;
   margin-right: auto;
   display: block;
-  width: 800px;
+  max-width: 800px;
   height: auto;
-}
-.post {
-  margin-left: -15px;
-  margin-right: -15px;
-  border-collapse: collapse;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  border-bottom: 1px solid #777777;
-}
-.post .date {
-  position: relative;
-  float: left;
-  width: 16.66666667%;
-  min-height: 1px;
-  padding-left: 15px;
-  padding-right: 15px;
-}
-.post .title {
-  position: relative;
-  float: left;
-  width: 83.33333333%;
-  min-height: 1px;
-  padding-left: 15px;
-  padding-right: 15px;
-  font-weight: bold;
-  color: #FF9900;
-}
-.post .content {
-  margin-left: 16.66666667%;
-  position: relative;
-  float: left;
-  width: 83.33333333%;
-  min-height: 1px;
-  padding-left: 15px;
-  padding-right: 15px;
 }
 .grid {
   margin-top: 20px;
   margin-bottom: 20px;
+  overflow-x: scroll;
 }
 .grid .hrow {
   font-weight: bold;
@@ -6919,44 +6888,10 @@ ul {
   border-top: 1px solid #999;
 }
 .grid .row {
-  margin-left: -15px;
-  margin-right: -15px;
   margin-top: 5px;
 }
 .grid .row .hcolumn {
   font-weight: bold;
-}
-.grid .row .column1 {
-  position: relative;
-  float: left;
-  width: 8.33333333%;
-  min-height: 1px;
-  padding-left: 15px;
-  padding-right: 15px;
-}
-.grid .row .column2 {
-  position: relative;
-  float: left;
-  width: 16.66666667%;
-  min-height: 1px;
-  padding-left: 15px;
-  padding-right: 15px;
-}
-.grid .row .column3 {
-  position: relative;
-  float: left;
-  width: 25%;
-  min-height: 1px;
-  padding-left: 15px;
-  padding-right: 15px;
-}
-.grid .row .column4 {
-  position: relative;
-  float: left;
-  width: 33.33333333%;
-  min-height: 1px;
-  padding-left: 15px;
-  padding-right: 15px;
 }
 .week {
   margin-left: -15px;
@@ -6965,6 +6900,7 @@ ul {
   padding-top: 10px;
   padding-bottom: 10px;
   border-bottom: 1px solid #777777;
+  min-width: 620px;
 }
 .week .week_id {
   position: relative;
@@ -7014,47 +6950,6 @@ ul {
 }
 .hrow .topic {
   color: inherit;
-}
-.book {
-  margin-left: -15px;
-  margin-right: -15px;
-  margin-top: 20px;
-  margin-bottom: 20px;
-}
-.book img {
-  position: relative;
-  float: left;
-  width: 16.66666667%;
-  min-height: 1px;
-  padding-left: 15px;
-  padding-right: 15px;
-  width: 100px;
-}
-.book .description {
-  position: relative;
-  float: left;
-  width: 83.33333333%;
-  min-height: 1px;
-  padding-left: 15px;
-  padding-right: 15px;
-  margin-top: 20px;
-}
-.book .description .title {
-  font-weight: bold;
-}
-.book .description .editor {
-  font-style: italic;
-}
-.feedEkList {
-  list-style: none outside none;
-  background-color: #FFFFFF;
-  border: 1px solid #777777;
-  padding: 4px 6px;
-  color: #3E3E3E;
-}
-.feedEkList li {
-  border-bottom: 1px solid #777777;
-  padding: 5px;
 }
 .itemDate {
   font-size: 11px;

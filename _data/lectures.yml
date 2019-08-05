@@ -1,8 +1,8 @@
 - week: Introduction
-  notes:
-      - Course Introduction: 01/CSCD27-Introduction.pdf
-      - Definitions: 01/CSCD27-Definitions.pdf
-      - Risk Management Analysis: 01/CSCD27-RiskManagementAnalysis.pdf
+  # notes:
+  #     - Course Introduction: 01/CSCD27-Introduction.pdf
+  #     - Definitions: 01/CSCD27-Definitions.pdf
+  #     - Risk Management Analysis: 01/CSCD27-RiskManagementAnalysis.pdf
   readings:
       - Security Engineering: http://www.cl.cam.ac.uk/~rja14/Papers/SE-01.pdf
 
@@ -11,10 +11,10 @@
       - Classical Cryptography: 02/CSCD27-ClassicalCryptography.pdf
 
 - week: Symmetric Cryptography, Hash Functions and Protocols
-  notes:
-      - Symmetric Encryption: 03/CSCD27-SymmetricEncryption.pdf
-      - Hash Functions: 03/CSCD27-CryptographicHashFunctions.pdf
-      - Symmetric Protocols: 03/CSCD27-SymmetricProtocols.pdf
+  # notes:
+  #     - Symmetric Encryption: 03/CSCD27-SymmetricEncryption.pdf
+  #     - Hash Functions: 03/CSCD27-CryptographicHashFunctions.pdf
+  #     - Symmetric Protocols: 03/CSCD27-SymmetricProtocols.pdf
   readings:
       - AES Standard: http://csrc.nist.gov/publications/fips/fips197/fips-197.pdf
       - Rijndael Proposal for AES Competition: http://csrc.nist.gov/archive/aes/rijndael/Rijndael-ammended.pdf
@@ -23,57 +23,57 @@
 
 
 - week: Public-key Cryptography, Digital Signatures and Protocols
-  notes:
-      - Asymmetric Encryption: 04/CSCD27-AsymmetricEncryption.pdf
-      - Digital Signatures: 04/CSCD27-DigitalSignatures.pdf
-      - Asymmetric Protocols: 04/CSCD27-AsymmetricProtocols.pdf
-      - Quantum Computing and Quantum Cryptography: 04/CSCD27-Quantum.pdf
+  # notes:
+  #     - Asymmetric Encryption: 04/CSCD27-AsymmetricEncryption.pdf
+  #     - Digital Signatures: 04/CSCD27-DigitalSignatures.pdf
+  #     - Asymmetric Protocols: 04/CSCD27-AsymmetricProtocols.pdf
+  #     - Quantum Computing and Quantum Cryptography: 04/CSCD27-Quantum.pdf
   readings:
       - The original RSA paper: http://people.csail.mit.edu/rivest/Rsapaper.pdf
       - Programming Satan’s Computer: https://www.cl.cam.ac.uk/~rja14/Papers/satan.pdf
       - How does SSL/TLS work? : https://security.stackexchange.com/questions/20803/how-does-ssl-tls-work
 
 - week: Network Insecurity
-  notes:
-      - Internet (in)security: 05/CSCD27-InternetInsecurity.pdf
+  # notes:
+  #     - Internet (in)security: 05/CSCD27-InternetInsecurity.pdf
   readings:
       - Intercepting Mobile Communications - The Insecurity of 802.11: http://www.cs.colorado.edu/~rhan/CSCI_7143_001_Fall_2002/Papers/Borisov2001_Insecure802_11.pdf
 
 - break: <span class="em">Reading Week</span>
 
 - week: Network Security
-  notes:
-      - Network Security: 06/CSCD27-NetworkSecurity.pdf
+  # notes:
+  #     - Network Security: 06/CSCD27-NetworkSecurity.pdf
   readings:
       - The First Few Milliseconds of an HTTPS Connection: http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html
       - The risks of mixed-content with HTTPS: https://www.youtube.com/watch?v=CSmacMZ0xZo
 
 - week: Authentication and Authorization
-  notes:
-      - Human Authentication: 07/CSCD27-HumanAuthentication.pdf
+  # notes:
+  #     - Human Authentication: 07/CSCD27-HumanAuthentication.pdf
 
 - week: OS and Program Insecurity
   readings: 
      - Smashing The Stack For Fun And Profit: http://phrack.org/issues/49/14.html
-  notes:
-      - System Insecurity: 08/CSCD27-SystemInsecurity.pdf
+  # notes:
+  #     - System Insecurity: 08/CSCD27-SystemInsecurity.pdf
   
 - week: Protection
   readings:
       - Stack Overflows - Defeating Canaries, ASLR, DEP, NX: https://security.stackexchange.com/questions/20497/stack-overflows-defeating-canaries-aslr-dep-nx
-  notes:
-      - Defending the Stack: 09/CSCD27-Defences.pdf
-      - System Security: 09/CSCD27-Protection.pdf
+  # notes:
+  #     - Defending the Stack: 09/CSCD27-Defences.pdf
+  #     - System Security: 09/CSCD27-Protection.pdf
 
 - week: Malicious Software
-  notes:
-      - Malicious Software: 10/CSCD27-MaliciousSoftware.pdf
+  # notes:
+  #     - Malicious Software: 10/CSCD27-MaliciousSoftware.pdf
   readings:
       - Google Analysis of Web-based Malware: http://www.usenix.org/events/hotbots07/tech/full_papers/provos/provos.pdf
 
 - week: Web Security
-  notes:
-      - Web Security: 11/CSCD27-WebSecurity.pdf
+  # notes:
+  #     - Web Security: 11/CSCD27-WebSecurity.pdf
 
 - week: Social Engineering
   readings:

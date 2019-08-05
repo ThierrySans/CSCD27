@@ -28,7 +28,7 @@
 }
 
 body {
-    min-height: 2000px;
+    min-height: auto;
     padding-top: 70px;
     font-family: Arial, Helvetica, sans-serif;
     text-align: justify;
@@ -36,8 +36,8 @@ body {
 
 footer{
     margin: 0px auto;
-    margin-top: 20px;
-    width: 800px;
+    margin-top: 50px;
+    max-width: 800px;
 }
 
 p, ul{
@@ -46,6 +46,11 @@ p, ul{
 
 .navbar{
     padding-top:25px;
+}
+
+.navbar-toggle {
+  line-height: 0;
+  padding: 4px 8px;
 }
 
 #utsc_logo{
@@ -57,22 +62,36 @@ p, ul{
 #content{
     margin-top:50px;
 	min-height: 200px;
+    overflow-x: scroll;
 }
 
 #header{
     .jumbotron();
     h1{
-        font-size: 42px;
+        font-size: 20px;
+    }
+    @media screen and (min-width: @screen-sm-min) {
+        h1{
+            font-size: 42px;
+        }
+    }
+    p{
+        font-size: 14px;
+    }
+    @media screen and (min-width: @screen-sm-min) {
+        p{
+            font-size: 21px;
+        }
     }
     #instructor {
-      .make-row();
+      display: flex;
       font-size: @jumbotron-font-size;
       div:first-child{
-        .make-xs-column(2);
+        flex-grow: 1;
         font-weight:bold;
       }
       div:last-child {
-        .make-xs-column(10);
+        flex-grow: 5;
       }
     }
 }
@@ -80,11 +99,17 @@ p, ul{
 #main{
     .make-row();
     #syllabus{
-        .make-xs-column(8);
-        padding-left:@jumbotron-padding*2;
+        max-width: 800px;
+        @media screen and (min-width: @screen-sm-min) {
+            .make-xs-column(8);
+            padding-left: @jumbotron-padding * 2;
+            padding-right: @jumbotron-padding * 2;
+        }
     }
     #news{
-        .make-xs-column(4);
+         @media screen and (min-width: @screen-sm-min) {
+             .make-xs-column(4);
+         }
     }
 }
 
@@ -92,33 +117,14 @@ p, ul{
     margin-left: auto;
     margin-right: auto;
     display: block;
-    width: 800px;
+    max-width: 800px;
     height: auto;
-}
-
-.post{
-        .make-row();
-        border-collapse: collapse;
-        padding-top:10px;
-        padding-bottom:10px;
-        border-bottom: 1px solid @gray-light;
-        .date{
-            .make-xs-column(2);
-        }
-        .title{
-             .make-xs-column(10);
-             font-weight: bold;
-             color: @base-color;
-        }
-        .content{
-             .make-xs-column-offset(2);
-             .make-xs-column(10);
-        }
 }
 
 .grid{
     margin-top:20px;
     margin-bottom:20px;
+    overflow-x: scroll;
     .hrow{
         font-weight: bold;
         border-bottom: 1px solid #999;
@@ -128,22 +134,9 @@ p, ul{
         border-top: 1px solid #999;
     }
     .row{
-        .make-row();
         margin-top:5px;
         .hcolumn{
              font-weight: bold;
-        }
-        .column1{
-             .make-xs-column(1);
-        }
-        .column2{
-             .make-xs-column(2);
-        }
-        .column3{
-             .make-xs-column(3);
-        }
-        .column4{
-             .make-xs-column(4);
         }
     }
 
@@ -155,6 +148,7 @@ p, ul{
     padding-top:10px;
     padding-bottom:10px;
     border-bottom: 1px solid @gray-light;
+    min-width: 620px;
     .week_id{
         .make-xs-column(1);
     }
@@ -181,37 +175,6 @@ p, ul{
         .topic{
             color: inherit;
         }
-}
-
-.book{
-    .make-row();
-    margin-top:20px;
-    margin-bottom:20px;
-    img{
-         .make-xs-column(2);
-         width:100px;
-    }
-    .description{
-         .make-xs-column(10);
-         margin-top:20px;
-         .title{
-             font-weight: bold;
-         }
-         .editor
-         {
-         	font-style: italic;
-         }
-    }
-}
-
-.feedEkList{
-    // width:450px;
-    list-style:none outside none;
-    background-color:#FFFFFF;
-    border:1px solid @gray-light;
-    padding:4px 6px;
-    color:#3E3E3E;
-    li{border-bottom:1px solid @gray-light; padding:5px;}
 }
 
 .itemDate{font-size:11px;color:#AAAAAA;}

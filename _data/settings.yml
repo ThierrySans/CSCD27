@@ -1,12 +1,12 @@
 # Site settings
 ref: CSCD27
 title: Computer and Network Security
-edition: Fall 2018
+edition: Fall 2019
 description: This course is meant to offer Computer Science undergraduate students a broad overview of the field of computer security. Students will learn the basic concepts in computer security including software vulnerability analysis and defense, networking security, applied cryptography. Students will also learn the fundamental methodology for how to design and analyze the security of critical systems.
 website: https://thierrysans.me/CSCD27/
 github: https://github.com/ThierrySans/CSCD27
-piazza: https://piazza.com/mail.utoronto.ca/fall2018/cscd27
-feedback: https://goo.gl/forms/v9VMJLDywSltmMSt2
+piazza: https://piazza.com/mail.utoronto.ca/fall2019/cscd27
+feedback: https://forms.gle/GiDcKNfKw9vv1vFs9
 
 instructor:
   name: Thierry Sans
@@ -17,29 +17,15 @@ instructor:
   hours: TBD
   location: IC-346
   contact: Piazza only (no mail)
-  hours: Mon 2-4pm, Fri 9-11am
+  hours: Thursday 9-11am
 
 assistants:
-    - name: Xuan Wei
-      role:  T01 & P04
-      contact: x.wei@mail.utoronto.ca
-      hours: Fri 11-11:30am
-      location: IC-400
-    - name: Shifeng Jin
-      role:  T03 & P02
-      contact: stone.jin@mail.utoronto.ca
-      hours: Tue 3-3:30pm
-      location: IC-400
-    - name: Gobin Giritharan
-      role:  T02 & P03
-      contact: gobin.giritharan@mail.utoronto.ca
-      hours: Thu 1-1:30pm
-      location: IC-400
-    - name: Tarun yellu
-      role:  T04 & P01
-      contact: tarunkumar.yellu@mail.utoronto.ca
-      hours: Tue 11-11:30am
-      location: IC-400
+    # - name: Xuan Wei
+    #   role:  T01 & P04
+    #   contact: x.wei@mail.utoronto.ca
+    #   hours: Fri 11-11:30am
+    #   location: IC-400
+
   
 timings:
     - section: LEC01 
@@ -59,16 +45,16 @@ timings:
       location: BV 473
     - section: TUT01
       time: Tuesday 17:00-18:00
-      location: IC 326        
+      location: AA 207        
     - section: TUT02
-      time: Thursday 10:00-11:00
-      location: IC 320        
+      time: Thursday 11:00-12:00
+      location: IC 120        
     - section: TUT03
-      time: Tuesday 12:00-13:00
-      location: AA 208        
+      time: Tuesday 9:00-10:00
+      location: MW 140     
     - section: TUT04
       time: Monday 12:00-13:00
-      location: AA 208    
+      location: IC 302    
         
         
-first: 20180903
+first: 20190905

@@ -1,7 +1,13 @@
       <div class="navbar navbar-default navbar-fixed-top" role="navigation">
         <div class="container">
             <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><span class="sr-only">Toggle navigation</span></button> <a class="navbar-brand" href={{"/" | absolute_url }}><span class="light">{{site.data.settings.ref}}</span> {{site.data.settings.edition}}</a>
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="24" height="24" focusable="false">
+                                        <title>Toggle navigation</title>
+                                        <path stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"></path>
+                                    </svg>
+                                </button> <a class="navbar-brand" href={{"/" | absolute_url }}><span class="light">{{site.data.settings.ref}}</span> {{site.data.settings.edition}}</a>
+                
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">

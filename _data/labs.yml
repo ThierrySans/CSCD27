@@ -1,51 +1,51 @@
 - week: no lab
 
-- week: Caesar Cipher
-  notes:
-      - introduction to docker: ../doc/docker/
-      - caesar 26: https://seclab.space/leagues/CSCD27F18/challenges/caesar-26/
-
-- week: RC4
-  notes:
-      - RC4: https://seclab.space/leagues/CSCD27F18/challenges/rc4/
-
-- week: Secure e-mail with Gnu Privacy Guard (GPG)
-  notes:
-      - The GNU Privacy Guard: https://seclab.space/leagues/CSCD27F18/challenges/gpg/
-  
-
-- week: Packet Sniffing
-  notes:
-      - Wireshark: https://seclab.space/leagues/CSCD27F18/challenges/packet-sniffing/
-
-- break: <span class="em">Reading Week</span>
-    
-- week: MScapy Spy
-  notes:
-      - Wireshark: https://seclab.space/leagues/CSCD27F18/challenges/scapy-spy/
-
-- week: ARP spoofing
-  notes:
-    - ARP Spoofing: https://seclab.space/leagues/CSCD27F18/challenges/arp-spoofing/
-
-- week: Vulnerability discovery and exploitation
-  notes:
-    - Penetration Testing: https://seclab.space/leagues/CSCD27F18/challenges/penetration-testing/
-    
-- week: Stack Smashing Attacks
-  notes:
-    - Smashing the Stack (branching): https://seclab.space/leagues/CSCD27F18/challenges/stack-smashing-branching/
-  #   - Smashing the Stack (shellcode): https://seclab.space/leagues/CSCD27F18/challenges/stack-smashing-shellcode/
-    
-- week: Malware
-  # notes:
-  #   - Malware Debian Package: https://seclab.space/leagues/CSCD27F18/challenges/malware-debian-package/
-
-- week: Web security
-  # notes:
-  #   - Incomplete Mediation: https://seclab.space/leagues/CSCD27F18/challenges/incomplete-mediation/
-  #   - Cross-Site Request Forgery: https://seclab.space/leagues/CSCD27F18/challenges/cross-site-request-forgery/
-  #   - Cross-site-Scripting: https://seclab.space/leagues/CSCD27F18/challenges/cross-site-scripting-session/
-  #   - SQL Injection: https://seclab.space/leagues/CSCD27F18/challenges/sql-injection-authentication/
-  
-- week: TBD
+# - week: Caesar Cipher
+#   notes:
+#       - introduction to docker: ../doc/docker/
+#       - caesar 26: https://seclab.space/leagues/CSCD27F18/challenges/caesar-26/
+#
+# - week: RC4
+#   notes:
+#       - RC4: https://seclab.space/leagues/CSCD27F18/challenges/rc4/
+#
+# - week: Secure e-mail with Gnu Privacy Guard (GPG)
+#   notes:
+#       - The GNU Privacy Guard: https://seclab.space/leagues/CSCD27F18/challenges/gpg/
+#
+#
+# - week: Packet Sniffing
+#   notes:
+#       - Wireshark: https://seclab.space/leagues/CSCD27F18/challenges/packet-sniffing/
+#
+# - break: <span class="em">Reading Week</span>
+#
+# - week: MScapy Spy
+#   notes:
+#       - Wireshark: https://seclab.space/leagues/CSCD27F18/challenges/scapy-spy/
+#
+# - week: ARP spoofing
+#   notes:
+#     - ARP Spoofing: https://seclab.space/leagues/CSCD27F18/challenges/arp-spoofing/
+#
+# - week: Vulnerability discovery and exploitation
+#   notes:
+#     - Penetration Testing: https://seclab.space/leagues/CSCD27F18/challenges/penetration-testing/
+#
+# - week: Stack Smashing Attacks
+#   notes:
+#     - Smashing the Stack (branching): https://seclab.space/leagues/CSCD27F18/challenges/stack-smashing-branching/
+#   #   - Smashing the Stack (shellcode): https://seclab.space/leagues/CSCD27F18/challenges/stack-smashing-shellcode/
+#
+# - week: Malware
+#   # notes:
+#   #   - Malware Debian Package: https://seclab.space/leagues/CSCD27F18/challenges/malware-debian-package/
+#
+# - week: Web security
+#   # notes:
+#   #   - Incomplete Mediation: https://seclab.space/leagues/CSCD27F18/challenges/incomplete-mediation/
+#   #   - Cross-Site Request Forgery: https://seclab.space/leagues/CSCD27F18/challenges/cross-site-request-forgery/
+#   #   - Cross-site-Scripting: https://seclab.space/leagues/CSCD27F18/challenges/cross-site-scripting-session/
+#   #   - SQL Injection: https://seclab.space/leagues/CSCD27F18/challenges/sql-injection-authentication/
+#
+# - week: TBD
