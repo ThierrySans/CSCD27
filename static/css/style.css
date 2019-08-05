@@ -6877,7 +6877,8 @@ ul {
 .grid {
   margin-top: 20px;
   margin-bottom: 20px;
-  overflow-x: scroll;
+  overflow-x: hidden;
+  text-align: left;
 }
 .grid .hrow {
   font-weight: bold;

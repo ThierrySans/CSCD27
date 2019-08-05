@@ -38,23 +38,23 @@ We encourage you to post questions regarding course materials and assignments on
 
 <div class="grid">
     <div class="hrow row">
-        <div class="hcolumn column3"></div>
-        <div class="column2">Role</div>
-        <div class="column4">Office Hours</div>
-        <div class="column3">Contact</div>
+        <div class="hcolumn col-xs-3 col-sm-3"></div>
+        <div class="col-xs-2 col-sm-2">Role</div>
+        <div class="col-xs-4 col-sm-4">Office Hours</div>
+        <div class="col-xs-3 col-sm-3">Contact</div>
     </div>
     <div class="row">
-        <div class="hcolumn column3">Thierry Sans</div>
-        <div class="column2">Prof</div>
-        <div class="column4">{{site.data.settings.instructor.hours}} ({{site.data.settings.instructor.location}})</div>
-        <div class="column3">{{site.data.settings.instructor.contact}}</div>
+        <div class="hcolumn col-xs-3 col-sm-3">Thierry Sans</div>
+        <div class="col-xs-2 col-sm-2">Prof</div>
+        <div class="col-xs-4 col-sm-4">{{site.data.settings.instructor.hours}} ({{site.data.settings.instructor.location}})</div>
+        <div class="col-xs-3 col-sm-3">{{site.data.settings.instructor.contact}}</div>
     </div>
     {% for a in site.data.settings.assistants %}
     <div class="row">
-        <div class="hcolumn column3">{{a.name}}</div>
-        <div class="column2">{{a.role}}</div>
-        <div class="column4">{{a.hours}} ({{a.location}})</div>
-        <div class="column3">{{a.contact}}</div>
+        <div class="hcolumn col-xs-3 col-sm-3">{{a.name}}</div>
+        <div class="col-xs-2 col-sm-2">{{a.role}}</div>
+        <div class="col-xs-4 col-sm-4">{{a.hours}} ({{a.location}})</div>
+        <div class="col-xs-3 col-sm-3">{{a.contact}}</div>
     </div>
     {% endfor %}
 </div>
