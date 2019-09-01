@@ -114,6 +114,8 @@ The numeric marks of CTF challenges, quizzes and final exam will be used to comp
     </div>
 </div>
 
+If your final mark is higher than midterm exam score, the midterm mark will be dropped and its weight will be added to the final exam. Moreover, there will not be any makeup midterm if you miss the midterm exam (whatever the reason). 
+
 A mark of **at least 40% on the final exam** is required to pass the course. If you receive less than 40% on the final exam you automatically fail the course, regardless of how well you have done on the CTF challenges or the midterm exam.
 
 ## Submission Policy
