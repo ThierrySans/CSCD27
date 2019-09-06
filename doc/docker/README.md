@@ -19,7 +19,7 @@ Here are some basic definitions taken from the [Get Started](https://docs.docker
 
 1. Do *not* SSH into a lab machine if you are going to use *Docker*. Since there is only one *docker* daemon, it will conflict if two people both use the docker daemon on the same machine. Therefore, always work in front of the lab machine rather than remotely.  
 
-2. The docker daemon can only access files that are in your `/courses/courses/cscd27f18/{utorid}` directory. You might get a `permission denied` message if you try to access files elsewhere with *Docker*. Therefore, always work with *Docker* from that directory. Make sure that all files that docker will use must be in that directory with read permissions to group and others (og+r). If you have directories, all of these directories must be traversable (og+x)
+2. The docker daemon can only access files that are in your `/courses/courses/cscd27f19/{utorid}` directory. You might get a `permission denied` message if you try to access files elsewhere with *Docker*. Therefore, always work with *Docker* from that directory. Make sure that all files that docker will use must be in that directory with read permissions to group and others (og+r). If you have directories, all of these directories must be traversable (og+x)
 
 Let us start with the `hello-world` example for *Docker*. The following command downloads the image `hello-world` (the first time only) and then run a container from that image. This container shows a message and then stop. 
 
