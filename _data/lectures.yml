@@ -7,12 +7,12 @@
       - Security Engineering: http://www.cl.cam.ac.uk/~rja14/Papers/SE-01.pdf
 
 - week: Classical Cryptography
-  # notes:
-  #     - Classical Cryptography: 02/CSCD27-ClassicalCryptography.pdf
+  notes:
+      - Classical Cryptography: 02/CSCD27-ClassicalCryptography.pdf
 
 - week: Symmetric Cryptography, Hash Functions and Protocols
-  # notes:
-  #     - Symmetric Encryption: 03/CSCD27-SymmetricEncryption.pdf
+  notes:
+      - Symmetric Encryption: 03/CSCD27-SymmetricEncryption.pdf
   #     - Hash Functions: 03/CSCD27-CryptographicHashFunctions.pdf
   #     - Symmetric Protocols: 03/CSCD27-SymmetricProtocols.pdf
   readings:
