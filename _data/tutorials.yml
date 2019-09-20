@@ -6,9 +6,9 @@
 - week: Classical Cryptography
   handout: 03/
 
-# - week: Symmetric Cryptography
-#   handout: 04/
-#
+- week: Symmetric Cryptography
+  handout: 04/
+
 # - week: Assymmetric Cryptography
 #   handout: 05/
 #

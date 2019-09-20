@@ -4,15 +4,15 @@
   notes:
       - introduction to docker: ../doc/docker/
       - caesar 26: https://seclab.space/leagues/CSCD27F19/challenges/caesar-26/
-#
-# - week: RC4
-#   notes:
-#       - RC4: https://seclab.space/leagues/CSCD27F19/challenges/rc4/
-#
-# - week: Secure e-mail with Gnu Privacy Guard (GPG)
-#   notes:
-#       - The GNU Privacy Guard: https://seclab.space/leagues/CSCD27F19/challenges/gpg/
-#
+
+- week: AES playground
+  notes:
+      - AES: https://seclab.space/leagues/CSCD27F19/challenges/aes-playground/
+
+- week: Secure e-mail with Gnu Privacy Guard (GPG)
+  notes:
+      - The GNU Privacy Guard: https://seclab.space/leagues/CSCD27F19/challenges/gpg/
+
 #
 # - week: Packet Sniffing
 #   notes:
