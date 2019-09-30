@@ -13,11 +13,11 @@
   notes:
       - The GNU Privacy Guard: https://seclab.space/leagues/CSCD27F19/challenges/gpg/
 
-#
-# - week: Packet Sniffing
-#   notes:
-#       - Wireshark: https://seclab.space/leagues/CSCD27F19/challenges/packet-sniffing/
-#
+
+- week: Packet Sniffing
+  notes:
+      - Wireshark: https://seclab.space/leagues/CSCD27F19/challenges/packet-sniffing/
+
 # - break: <span class="em">Reading Week</span>
 #
 # - week: MScapy Spy

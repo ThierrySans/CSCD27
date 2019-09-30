@@ -9,9 +9,9 @@
 - week: Symmetric Cryptography
   handout: 04/
 
-# - week: Assymmetric Cryptography
-#   handout: 05/
-#
+- week: Assymmetric Cryptography
+  handout: 05/
+
 # - break: <span class="em">Reading Week</span>
 #
 # - week: Network insecurity
