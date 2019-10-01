@@ -19,7 +19,7 @@ Take a look at the simplified version of the *Needham-Shroeder* public-key proto
 
 3. Why is Alice sending the nonce *Na* to Bob? If she does not, can you show how an attacker could compromised either of both goals? 
 
-4. Why is Bob sending the none *Nb* to Alice? If he does not, can you show how an attacker could compromised either of both goals? 
+4. Why is Bob sending the nonce *Nb* to Alice? If he does not, can you show how an attacker could compromised either of both goals? 
 
 5. Despite the double-challenge protocol, there is man-in-the-middle attack on the Needham-Shroeder protocol. Describe that attack and its fix. 
 
