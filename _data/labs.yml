@@ -18,12 +18,12 @@
   notes:
       - Wireshark: https://seclab.space/leagues/CSCD27F19/challenges/packet-sniffing/
 
-# - break: <span class="em">Reading Week</span>
-#
-# - week: MScapy Spy
-#   notes:
-#       - Wireshark: https://seclab.space/leagues/CSCD27F19/challenges/scapy-spy/
-#
+- week: Scapy Spy
+  notes:
+      - Wireshark: https://seclab.space/leagues/CSCD27F19/challenges/scapy-spy/
+
+- break: <span class="em">Reading Week</span>
+
 # - week: ARP spoofing
 #   notes:
 #     - ARP Spoofing: https://seclab.space/leagues/CSCD27F19/challenges/arp-spoofing/

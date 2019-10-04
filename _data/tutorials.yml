@@ -11,11 +11,12 @@
 
 - week: Assymmetric Cryptography
   handout: 05/
+  
+- week: Network insecurity
+  handout: 06/
+  
+- break: <span class="em">Reading Week</span>
 
-# - break: <span class="em">Reading Week</span>
-#
-# - week: Network insecurity
-#   handout: 06/
 #
 # - week: Network Security
 #   handout: 07/
