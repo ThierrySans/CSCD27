@@ -18,9 +18,9 @@
   notes:
       - Wireshark: https://seclab.space/leagues/CSCD27F19/challenges/packet-sniffing/
 
-- week: Scapy Spy
+- week: Malicious Gateway
   notes:
-      - Wireshark: https://seclab.space/leagues/CSCD27F19/challenges/scapy-spy/
+      - Wireshark: https://seclab.space/leagues/CSCD27F19/challenges/malicious-gateway/
 
 - break: <span class="em">Reading Week</span>
 
