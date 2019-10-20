@@ -24,9 +24,9 @@
 
 - break: <span class="em">Reading Week</span>
 
-# - week: ARP spoofing
-#   notes:
-#     - ARP Spoofing: https://seclab.space/leagues/CSCD27F19/challenges/arp-spoofing/
+- week: ARP spoofing
+  notes:
+    - ARP Spoofing: https://seclab.space/leagues/CSCD27F19/challenges/arp-spoofing/
 #
 # - week: Vulnerability discovery and exploitation
 #   notes:
