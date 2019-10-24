@@ -46,12 +46,13 @@
   readings:
       - The First Few Milliseconds of an HTTPS Connection: http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html
       - The risks of mixed-content with HTTPS: https://www.youtube.com/watch?v=CSmacMZ0xZo
+      - How Does Tor Really Work? The Definitive Visual Guide (2019): https://skerritt.blog/how-does-tor-really-work/
 
 - break: <span class="em">Reading Week</span>
 
 - week: Authentication and Authorization
-  # notes:
-  #     - Human Authentication: 07/CSCD27-HumanAuthentication.pdf
+  notes:
+      - Human Authentication: 07/CSCD27-HumanAuthentication.pdf
 
 - week: OS and Program Insecurity
   readings: 
