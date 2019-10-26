@@ -27,10 +27,10 @@
 - week: ARP spoofing
   notes:
     - ARP Spoofing: https://seclab.space/leagues/CSCD27F19/challenges/arp-spoofing/
-#
-# - week: Vulnerability discovery and exploitation
-#   notes:
-#     - Penetration Testing: https://seclab.space/leagues/CSCD27F19/challenges/penetration-testing/
+
+- week: Vulnerability discovery and exploitation
+  notes:
+    - Penetration Testing: https://seclab.space/leagues/CSCD27F19/challenges/penetration-testing/
 #
 # - week: Stack Smashing Attacks
 #   notes:
