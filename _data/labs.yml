@@ -31,12 +31,12 @@
 - week: Vulnerability discovery and exploitation
   notes:
     - Penetration Testing: https://seclab.space/leagues/CSCD27F19/challenges/penetration-testing/
-#
-# - week: Stack Smashing Attacks
-#   notes:
-#     - Smashing the Stack (branching): https://seclab.space/leagues/CSCD27F19/challenges/stack-smashing-branching/
-#   #   - Smashing the Stack (shellcode): https://seclab.space/leagues/CSCD27F19/challenges/stack-smashing-shellcode/
-#
+
+- week: Stack Smashing Attacks
+  notes:
+    - Smashing the Stack (branching): https://seclab.space/leagues/CSCD27F19/challenges/stack-smashing-branching/
+  #   - Smashing the Stack (shellcode): https://seclab.space/leagues/CSCD27F19/challenges/stack-smashing-shellcode/
+
 # - week: Malware
 #   # notes:
 #   #   - Malware Debian Package: https://seclab.space/leagues/CSCD27F19/challenges/malware-debian-package/
