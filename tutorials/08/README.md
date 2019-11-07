@@ -27,8 +27,9 @@ Assuming that we use a password cracking tool that tries different login/passwor
 
 Assuming that we hack into their server and download their (lame) database of unsalted passwords. We roughly estimates that:
 
-- computing a hash and comparing it with a given one takes 10^(-9) seconds
+- computing a hash takes 10^(-9) seconds
 - a table lookup takes 10^(-3) seconds (regardless the size of the table)
+- testing whether two hashes are equal takes no time 
 
 4. For all types of attack, how long would it take to:
 

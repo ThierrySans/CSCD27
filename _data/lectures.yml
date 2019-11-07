@@ -63,9 +63,9 @@
 - week: Protection
   readings:
       - Stack Overflows - Defeating Canaries, ASLR, DEP, NX: https://security.stackexchange.com/questions/20497/stack-overflows-defeating-canaries-aslr-dep-nx
-  # notes:
-  #     - Defending the Stack: 09/CSCD27-Defences.pdf
-  #     - System Security: 09/CSCD27-Protection.pdf
+  notes:
+      - Defending the Stack: 09/CSCD27-Defences.pdf
+      - System Security: 09/CSCD27-Protection.pdf
 
 - week: Malicious Software
   # notes:
