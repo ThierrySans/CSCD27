@@ -35,17 +35,15 @@
 - week: Stack Smashing Attacks
   notes:
     - Smashing the Stack (branching): https://seclab.space/leagues/CSCD27F19/challenges/stack-smashing-branching/
-  #   - Smashing the Stack (shellcode): https://seclab.space/leagues/CSCD27F19/challenges/stack-smashing-shellcode/
 
 - week: Malware
   notes:
     - Malware Debian Package: https://seclab.space/leagues/CSCD27F19/challenges/malware-debian-package/
+    
+- week: Incomplete Mediation
+  notes:
+    - Incomplete Mediation: https://seclab.space/leagues/CSCD27F19/challenges/incomplete-mediation/
 
-# - week: Web security
-#   # notes:
-#   #   - Incomplete Mediation: https://seclab.space/leagues/CSCD27F19/challenges/incomplete-mediation/
-#   #   - Cross-Site Request Forgery: https://seclab.space/leagues/CSCD27F19/challenges/cross-site-request-forgery/
-#   #   - Cross-site-Scripting: https://seclab.space/leagues/CSCD27F19/challenges/cross-site-scripting-session/
-#   #   - SQL Injection: https://seclab.space/leagues/CSCD27F19/challenges/sql-injection-authentication/
-#
-# - week: TBD
+- week: Cross-Site Request Forgery (CSRF)
+  notes:
+    - Cross-Site Request Forgery: https://seclab.space/leagues/CSCD27F19/challenges/cross-site-request-forgery/
