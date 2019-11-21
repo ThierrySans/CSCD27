@@ -44,6 +44,8 @@
   notes:
     - Incomplete Mediation: https://seclab.space/leagues/CSCD27F19/challenges/incomplete-mediation/
 
-- week: Cross-Site Request Forgery (CSRF)
-  notes:
-    - Cross-Site Request Forgery: https://seclab.space/leagues/CSCD27F19/challenges/cross-site-request-forgery/
+- week: TBD
+
+# - week: Cross-Site Request Forgery (CSRF)
+#   notes:
+#     - Cross-Site Request Forgery: https://seclab.space/leagues/CSCD27F19/challenges/cross-site-request-forgery/
