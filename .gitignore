@@ -8,7 +8,27 @@ _site
 Thumbs.db
 .DS_Store
 
+# Node modules 
+node_modules/*
+
+!node_modules/bootstrap/
+node_modules/bootstrap/*
+!node_modules/bootstrap/dist/
+
+!node_modules/bootstrap-less/
+node_modules/bootstrap-less/*
+!node_modules/bootstrap-less/bootstrap/
+
+!node_modules/moment/
+node_modules/moment/*
+!node_modules/moment/min/
+
+!node_modules/jquery/
+node_modules/jquery/*
+!node_modules/jquery/*/dist/
+
 # node.js
-node_modules
 uploads
 db
+
+.jekyll-cache
