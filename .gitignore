@@ -25,7 +25,7 @@ node_modules/moment/*
 
 !node_modules/jquery/
 node_modules/jquery/*
-!node_modules/jquery/*/dist/
+!node_modules/jquery/dist/
 
 # node.js
 uploads
