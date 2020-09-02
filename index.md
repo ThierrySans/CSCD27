@@ -30,7 +30,7 @@ Upon successful completion of this course, students will:
 
 No assumptions are made about prior exposure to security-related ideas. Some mathematical topics will be covered (finite fields, modular arithmetic, number theory), but not in as much depth as in the MATC16 Cryptography course. These topics are necessary for a proper understanding of modern cryptography, which today is centered around difficult mathematical problems that cannot be solved by brute force computing power, but instead can be solved only with access to a trap-door (key). No assumptions are made about your math background; all the required concepts will be introduced as needed in the course.
 
-For specific prerequisite requirements see the UTSC Registrar.
+This course requires a good understanding of the x86 computer architecture (CSCB58) ans good C/UNIX system programming skills (CSCB09).
 
 ## Course Staff
 
@@ -139,6 +139,8 @@ Assignment solutions must be prepared individually, except where an assignment h
 You may discuss assignments with other students, for example to clarify the requirements of an assignment, to work through examples that help you understand the technology used for an assignment, or to learn how to configure your system to run a supporting piece of software used in an assignment. However, collaboration at the level of answering written questions or designing and writing code, is strictly forbidden. Written problems and programming assignments must be answered, designed and coded by you alone, using the text, your own notes, and other texts and Web sources as aids.
 
 Do not let other students look at your assignment solutions, since this can lead to copying. Remember you are in violation of the UTSC Academic Code whether you copy someone else's work or allow someone else to copy your work. These rules are meant to ensure that all students understand their solutions well enough to prepare the solutions themselves. If challenged you must be able to reproduce and explain your work.
+
+You are not allowed to look at solutions available online and you are not allowed to make your solution publicly available online as well, even after the class term. 
 
 The course staff reserves the right to use code and text analysis tools to compare your submission with others to verify that no improper collaboration has occurred.
 

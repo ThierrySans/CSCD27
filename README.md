@@ -21,7 +21,8 @@ You can also alternatively use [rbenv](https://github.com/rbenv/rbenv) to manage
 
 ### 2. Use the latest version of Ruby
 ```shell
-$ rvm --default use 2.3.1
+$ rvm get stable
+$ rvm use ruby --install --default
 ```
 
 ### 3. Install Bundler (dependancy manager)

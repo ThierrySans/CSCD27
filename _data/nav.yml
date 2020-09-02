@@ -6,12 +6,8 @@
   url: /tutorials/
   absolute: False
 
-- title: Labs
-  url: /labs/
-  absolute: False
-
 - title: Piazza
-  url:  https://piazza.com/mail.utoronto.ca/fall2019/cscd27
+  url:  https://piazza.com/mail.utoronto.ca/fall2020/cscd27
   absolute: True
 
 - title: Github
@@ -19,5 +15,5 @@
   absolute: True
   
 - title: Feedback
-  url: https://forms.gle/GiDcKNfKw9vv1vFs9
+  url: https://forms.gle/NiCRZahRSXHX6rv8A
   absolute: True
