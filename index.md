@@ -102,15 +102,15 @@ The numeric marks of CTF challenges, quizzes and final exam will be used to comp
     </div>
     <div class="row">
         <div class="hcolumn col-xs-8 col-sm-8">CTF challenges</div>
-        <div class="col-xs-4 col-sm-4">40%</div>
+        <div class="col-xs-4 col-sm-4">60%</div>
     </div>
     <div class="row">
         <div class="hcolumn col-xs-8 col-sm-8">Midterm Exam</div>
-        <div class="col-xs-4 col-sm-4">20%</div>
+        <div class="col-xs-4 col-sm-4">15%</div>
     </div>
     <div class="row">
         <div class="hcolumn col-xs-8 col-sm-8">Final Exam</div>
-        <div class="col-xs-4 col-sm-4">40%</div>
+        <div class="col-xs-4 col-sm-4">25%</div>
     </div>
 </div>
 
