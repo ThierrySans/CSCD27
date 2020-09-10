@@ -22,7 +22,11 @@ permalink: /lectures/
         {% assign week_id = week_id | plus: 1 %}
         <div class="week_id">{{week_id}}</div>
         <div class="date"></div>
-    	<div class="topic">{{e.week}}</div>
+    	{% if e.link %}
+        <div class="topic"><a href="{{e.link}}">{{e.week}}</a></div>
+        {% else %}
+        <div class="topic">{{e.week}}</div>
+        {% endif %}
         <div class="notes">
                         <ul>
                             {% for note in e.notes %}
