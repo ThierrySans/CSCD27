@@ -13,7 +13,7 @@ permalink: /lectures/
 
 {% assign week_id = 0 %}
 {% for e in site.data.lectures %}
-<div class="week {% cycle "odd", "even" %}">
+<div class='week {% cycle "odd", "even" %}'>
     {% if e.break %}
         <div class="week_id"></div>
         <div class="date"></div>
@@ -30,26 +30,14 @@ permalink: /lectures/
         <div class="notes">
                         <ul>
                             {% for note in e.notes %}
-                                {% for pair in note %}
-                                    {% if pair[1] == nil %}
-                                        <li>{{note}}</li>
-                                    {% else %}
-                                        <li><a href="{{pair[1]}}">{{pair[0]}}</a></li>
-                                    {% endif %}
-                                {% endfor %}
+                                <li><a href="{{note[1]}}">{{note[0]}}</a> <a href="{{note[1]}}.pdf">(pdf)</a></li>
         					{% endfor %}
                         </ul>
         </div>
         <div class="readings">
                         <ul>
                         {% for reading in e.readings %}
-                            {% for pair in reading %}
-                                {% if pair[1] == nil %}
-                                    <li>{{reading}}</li>
-                                {% else %}
-                                    <li><a href="{{pair[1]}}">{{pair[0]}}</a></li>
-                                {% endif %}
-                            {% endfor %}
+                                <li><a href="{{reading[1]}}">{{reading[0]}}</a></li>
     					{% endfor %}
                         </ul>
         </div>
