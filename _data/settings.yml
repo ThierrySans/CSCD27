@@ -14,7 +14,7 @@ instructor:
   website: https://thierrysans.github.io/
   github: ThierrySans
   twitter: ThierrySans
-  hours: TBD
+  hours: Fri 1-3PM
   location: Online
   contact: Piazza only (no email)
 
@@ -23,22 +23,22 @@ assistants:
     - name: Ben Cooper
       role:  TUT02 & PRA04
       contact: "&#116;&#114;&#111;&#111;&#112;&#101;&#114;&#46;&#99;&#111;&#111;&#112;&#101;&#114;&#64;&#117;&#116;&#111;&#114;&#111;&#110;&#116;&#111;&#46;&#99;&#97;"
-      hours: TBD
+      hours: Thu 5-6PM
       location: Online
     - name: Cheng Gao
       role:  TUT03 & PRA02
       contact: "&#103;&#110;&#101;&#104;&#99;&#46;&#103;&#97;&#111;&#64;&#109;&#97;&#105;&#108;&#46;&#117;&#116;&#111;&#114;&#111;&#110;&#116;&#111;&#46;&#99;&#97;"
-      hours: TBD
+      hours: Wed 5-6PM
       location: Online
     - name: Saba Kiaei
       role:  TUT04 & PRA01
       contact: "&#115;&#97;&#98;&#97;&#46;&#107;&#105;&#97;&#101;&#105;&#64;&#109;&#97;&#105;&#108;&#46;&#117;&#116;&#111;&#114;&#111;&#110;&#116;&#111;&#46;&#99;&#97;"
-      hours: TBD
+      hours: Mon 2-4PM
       location: Online
     - name: Chun Lee
       role:  TUT01 & PRA03
       contact: "&#99;&#104;&#117;&#110;&#104;&#111;&#46;&#108;&#101;&#101;&#64;&#109;&#97;&#105;&#108;&#46;&#117;&#116;&#111;&#114;&#111;&#110;&#116;&#111;&#46;&#99;&#97;"
-      hours: TBD
+      hours: Tue 12-1PM 
       location: Online
   
 timings:
