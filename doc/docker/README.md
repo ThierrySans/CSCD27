@@ -95,7 +95,9 @@ Here is a small Docker cheat sheet:
   ```
 
 - Delete a container
-  `$ docker rm container_name`
+  ```
+  $ docker rm container_name
+  ```
 
 - Stop all containers
   ```
