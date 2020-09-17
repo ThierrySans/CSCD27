@@ -43,31 +43,31 @@ assistants:
   
 timings:
     - section: LEC01 
-      time: Thursday 11:00-13:00
+      time: Thu 11:00-13:00
       location: Online
     - section: PRA01
-      time: Monday 13:00-14:00
+      time: Mon 13:00-14:00
       location: Online     
     - section: PRA02
-      time: Tuesday 14:00-15:00
+      time: Tue 14:00-15:00
       location: Online      
     - section: PRA03
-      time: Tuesday 10:00-11:00
+      time: Tue 10:00-11:00
       location: Online       
     - section: PRA04
-      time: Tuesday 16:00-17:00
+      time: Tue 16:00-17:00
       location: Online
     - section: TUT01
-      time: Tuesday 17:00-18:00
+      time: Tue 17:00-18:00
       location: Online       
     - section: TUT02
-      time: Thursday 11:00-12:00
+      time: Fri 11:00-12:00
       location: Online    
     - section: TUT03
-      time: Tuesday 9:00-10:00
+      time: Tue 9:00-10:00
       location: Online   
     - section: TUT04
-      time: Monday 12:00-13:00
+      time: Mon 12:00-13:00
       location: Online
         
         
