@@ -9,12 +9,12 @@
 
 - week: Classical Cryptography
   link: https://q.utoronto.ca/courses/164116/external_tools/246
-  # notes:
-  #     Classical Cryptography: 02/CSCD27-ClassicalCryptography.pdf
+  notes:
+      Classical Cryptography: 02/CSCD27-ClassicalCryptography
 
 - week: Symmetric Cryptography, Hash Functions and Protocols
-  # notes:
-  #     Symmetric Encryption: 03/CSCD27-SymmetricEncryption.pdf
+  notes:
+      Symmetric Encryption: 03/CSCD27-SymmetricEncryption
   #     Hash Functions: 03/CSCD27-CryptographicHashFunctions.pdf
   #     Symmetric Protocols: 03/CSCD27-SymmetricProtocols.pdf
   readings:
