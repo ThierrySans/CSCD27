@@ -8,11 +8,12 @@
       Security Engineering: http://www.cl.cam.ac.uk/~rja14/Papers/SE-01.pdf
 
 - week: Classical Cryptography
-  link: https://q.utoronto.ca/courses/164116/external_tools/246
+  link: https://youtu.be/vEp9g-gFWA4
   notes:
       Classical Cryptography: 02/CSCD27-ClassicalCryptography
 
 - week: Symmetric Cryptography, Hash Functions and Protocols
+  link: https://q.utoronto.ca/courses/164116/external_tools/246
   notes:
       Symmetric Encryption: 03/CSCD27-SymmetricEncryption
   #     Hash Functions: 03/CSCD27-CryptographicHashFunctions.pdf
