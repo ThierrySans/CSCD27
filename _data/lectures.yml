@@ -16,8 +16,8 @@
   link: https://q.utoronto.ca/courses/164116/external_tools/246
   notes:
       Symmetric Encryption: 03/CSCD27-SymmetricEncryption
-  #     Hash Functions: 03/CSCD27-CryptographicHashFunctions.pdf
-  #     Symmetric Protocols: 03/CSCD27-SymmetricProtocols.pdf
+      Hash Functions: 03/CSCD27-CryptographicHashFunctions
+      Symmetric Protocols: 03/CSCD27-SymmetricProtocols
   readings:
       AES Standard: http://csrc.nist.gov/publications/fips/fips197/fips-197.pdf
       Rijndael Proposal for AES Competition: http://csrc.nist.gov/archive/aes/rijndael/Rijndael-ammended.pdf
