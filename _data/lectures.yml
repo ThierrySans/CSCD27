@@ -27,11 +27,10 @@
 
 - week: Public-key Cryptography, Digital Signatures and Protocols
   link: https://q.utoronto.ca/courses/164116/external_tools/246
-  # notes:
-  #     Asymmetric Encryption: 04/CSCD27-AsymmetricEncryption.pdf
-  #     Digital Signatures: 04/CSCD27-DigitalSignatures.pdf
-  #     Asymmetric Protocols: 04/CSCD27-AsymmetricProtocols.pdf
-  #     Quantum Computing and Quantum Cryptography: 04/CSCD27-Quantum.pdf
+  notes:
+      Asymmetric Encryption: 04/CSCD27-AsymmetricEncryption
+      Asymmetric Protocols: 04/CSCD27-AsymmetricProtocols
+      Quantum Computing and Quantum Cryptography: 04/CSCD27-Quantum
   readings:
       The original RSA paper: http://people.csail.mit.edu/rivest/Rsapaper.pdf
       Programming Satan’s Computer: https://www.cl.cam.ac.uk/~rja14/Papers/satan.pdf
