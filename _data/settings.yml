@@ -5,7 +5,7 @@ edition: Fall 2020
 description: This course is meant to offer Computer Science undergraduate students a broad overview of the field of computer security. Students will learn the basic concepts in computer security including software vulnerability analysis and defense, networking security, applied cryptography. Students will also learn the fundamental methodology for how to design and analyze the security of critical systems.
 website: https://thierrysans.me/CSCD27/
 github: https://github.com/ThierrySans/CSCD27
-piazza: https://piazza.com/mail.utoronto.ca/fall2020/cscd27
+piazza: https://piazza.com/utoronto.ca/fall2020/cscd27
 feedback: https://forms.gle/NiCRZahRSXHX6rv8A
 
 instructor:
