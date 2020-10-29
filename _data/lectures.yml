@@ -55,12 +55,13 @@
       The risks of mixed-content with HTTPS: https://www.youtube.com/watch?v=CSmacMZ0xZo
       How Does Tor Really Work? The Definitive Visual Guide (2019): https://skerritt.blog/how-does-tor-really-work/
 
-- week: Authentication and Authorization
-  link: https://q.utoronto.ca/courses/164116/external_tools/246
+- week: Human Authentication
+  link: https://youtu.be/6JDhU3wd5FA
   notes:
       Human Authentication: 07/CSCD27-HumanAuthentication
 
 - week: OS and Program Insecurity
+  link: https://q.utoronto.ca/courses/164116/external_tools/246
   readings: 
      Smashing The Stack For Fun And Profit: http://phrack.org/issues/49/14.html
   # notes:
