@@ -76,8 +76,8 @@
 
 - week: Malicious Software
   link: https://q.utoronto.ca/courses/164116/external_tools/246
-  # notes:
-  #     Malicious Software: 10/CSCD27-MaliciousSoftware.pdf
+  notes:
+      Malicious Software: 10/CSCD27-MaliciousSoftware
   readings:
       Google Analysis of Web-based Malware: http://www.usenix.org/events/hotbots07/tech/full_papers/provos/provos.pdf
 
