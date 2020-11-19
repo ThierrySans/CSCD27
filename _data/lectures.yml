@@ -75,13 +75,14 @@
       System Security: 09/CSCD27-Protection
 
 - week: Malicious Software
-  link: https://q.utoronto.ca/courses/164116/external_tools/246
+  link: https://youtu.be/55h3Cl4L8FE
   notes:
       Malicious Software: 10/CSCD27-MaliciousSoftware
   readings:
       Google Analysis of Web-based Malware: http://www.usenix.org/events/hotbots07/tech/full_papers/provos/provos.pdf
 
 - week: Web Security
+  link: https://q.utoronto.ca/courses/164116/external_tools/246
   # notes:
   #     Web Security: 11/CSCD27-WebSecurity.pdf
 
