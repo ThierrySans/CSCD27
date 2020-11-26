@@ -83,8 +83,8 @@
 
 - week: Web Security
   link: https://q.utoronto.ca/courses/164116/external_tools/246
-  # notes:
-  #     Web Security: 11/CSCD27-WebSecurity.pdf
+  notes:
+      Web Security: 11/CSCD27-WebSecurity
 
 - week: Social Engineering
   # notes:
