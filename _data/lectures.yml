@@ -87,7 +87,7 @@
       Web Security: 11/CSCD27-WebSecurity
 
 - week: Social Engineering
-  # notes:
-  #     Web Security: 12/CSCD27-SocialEngineering.pdf
+  notes:
+      Web Security: 12/CSCD27-SocialEngineering
   readings:
       Handcrafted Fraud and Extortion - Manual Account Hijacking in the Wild: http://services.google.com/fh/files/blogs/google_hijacking_study_2014.pdf
