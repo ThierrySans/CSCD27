@@ -1,7 +1,7 @@
 {
   "name": "cscc69",
   "version": "1.0.0",
-  "description": "This is the source code for the CSCC69 course website.",
+  "description": "This is the source code for the CSCD27 course website.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,9 +17,9 @@
   },
   "homepage": "https://github.com/ThierrySans/CSCC69#readme",
   "dependencies": {
-    "bootstrap": "^4.5.2",
+    "bootstrap": "^5.1.0",
     "bootstrap-less": "^3.3.8",
-    "jquery": "^3.5.1",
-    "moment": "^2.27.0"
+    "jquery": "^3.6.0",
+    "moment": "^2.29.1"
   }
 }

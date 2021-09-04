@@ -1,11 +1,11 @@
 # Site settings
 ref: CSCD27
 title: Computer and Network Security
-edition: Fall 2020
+edition: Fall 2021
 description: This course is meant to offer Computer Science undergraduate students a broad overview of the field of computer security. Students will learn the basic concepts in computer security including software vulnerability analysis and defense, networking security, applied cryptography. Students will also learn the fundamental methodology for how to design and analyze the security of critical systems.
 website: https://thierrysans.me/CSCD27/
 github: https://github.com/ThierrySans/CSCD27
-piazza: https://piazza.com/utoronto.ca/fall2020/cscd27
+piazza: https://piazza.com/utoronto.ca/fall2021/cscd27
 feedback: https://forms.gle/NiCRZahRSXHX6rv8A
 
 instructor:
@@ -14,61 +14,62 @@ instructor:
   website: https://thierrysans.github.io/
   github: ThierrySans
   twitter: ThierrySans
-  hours: Fri 1-3PM
-  location: Online
+  hours: TBD
+  location: <a href="https://utoronto.zoom.us/j/88149611289">Zoom</a>
   contact: Piazza only (no email)
 
 # https://www.fingerlakesbmw.org/main/flobfuscate.php
 assistants:
-    - name: Ben Cooper
-      role:  TUT02 & PRA04
-      contact: "&#116;&#114;&#111;&#111;&#112;&#101;&#114;&#46;&#99;&#111;&#111;&#112;&#101;&#114;&#64;&#117;&#116;&#111;&#114;&#111;&#110;&#116;&#111;&#46;&#99;&#97;"
-      hours: Thu 5-6PM
+    - name: Alexander Greff
+      role:  TBD
+      contact: "&#97;&#108;&#101;&#120;&#46;&#103;&#114;&#101;&#102;&#102;&#64;&#109;&#97;&#105;&#108;&#46;&#117;&#116;&#111;&#114;&#111;&#110;&#116;&#111;&#46;&#99;&#97;"
+      hours: TBD
       location: Online
-    - name: Cheng Gao
-      role:  TUT03 & PRA02
-      contact: "&#103;&#110;&#101;&#104;&#99;&#46;&#103;&#97;&#111;&#64;&#109;&#97;&#105;&#108;&#46;&#117;&#116;&#111;&#114;&#111;&#110;&#116;&#111;&#46;&#99;&#97;"
-      hours: Wed 5-6PM
+    - name: Jiasong Liang
+      role:  TBD
+      contact: "&#106;&#105;&#97;&#115;&#111;&#110;&#103;&#46;&#108;&#105;&#97;&#110;&#103;&#64;&#109;&#97;&#105;&#108;&#46;&#117;&#116;&#111;&#114;&#111;&#110;&#116;&#111;&#46;&#99;&#97;"
+      hours: TBD
       location: Online
-    - name: Saba Kiaei
-      role:  TUT04 & PRA01
-      contact: "&#115;&#97;&#98;&#97;&#46;&#107;&#105;&#97;&#101;&#105;&#64;&#109;&#97;&#105;&#108;&#46;&#117;&#116;&#111;&#114;&#111;&#110;&#116;&#111;&#46;&#99;&#97;"
-      hours: Mon 3-4PM
+    - name: Qibo Wang
+      role:  TBD
+      contact: "&#113;&#105;&#98;&#111;&#46;&#119;&#97;&#110;&#103;&#64;&#109;&#97;&#105;&#108;&#46;&#117;&#116;&#111;&#114;&#111;&#110;&#116;&#111;&#46;&#99;&#97;"
+      hours: TBD
       location: Online
-    - name: Chun Lee
-      role:  TUT01 & PRA03
-      contact: "&#99;&#104;&#117;&#110;&#104;&#111;&#46;&#108;&#101;&#101;&#64;&#109;&#97;&#105;&#108;&#46;&#117;&#116;&#111;&#114;&#111;&#110;&#116;&#111;&#46;&#99;&#97;"
-      hours: Tue 12-1PM 
+    - name: Sonika Verma
+      role:  TBD
+      contact: "&#115;&#111;&#110;&#105;&#107;&#97;&#46;&#118;&#101;&#114;&#109;&#97;&#64;&#109;&#97;&#105;&#108;&#46;&#117;&#116;&#111;&#114;&#111;&#110;&#116;&#111;&#46;&#99;&#97;"
+      hours: TBD
       location: Online
+
   
 timings:
-    - section: LEC01 
+    - section: LEC01
       time: Thu 11:00-13:00
       location: Online
-    - section: PRA01
-      time: Mon 13:00-14:00
-      location: Online     
-    - section: PRA02
-      time: Tue 14:00-15:00
-      location: Online      
-    - section: PRA03
-      time: Tue 10:00-11:00
-      location: Online       
-    - section: PRA04
-      time: Tue 16:00-17:00
-      location: Online
-    - section: TUT01
-      time: Tue 17:00-18:00
-      location: Online       
-    - section: TUT02
-      time: Fri 11:00-12:00
-      location: Online    
-    - section: TUT03
-      time: Tue 9:00-10:00
-      location: Online   
-    - section: TUT04
-      time: Mon 12:00-13:00
-      location: Online
+    # - section: PRA01
+    #   time: Mon 13:00-14:00
+    #   location: Online
+    # - section: PRA02
+    #   time: Tue 14:00-15:00
+    #   location: Online
+    # - section: PRA03
+    #   time: Tue 10:00-11:00
+    #   location: Online
+    # - section: PRA04
+    #   time: Tue 16:00-17:00
+    #   location: Online
+    # - section: TUT01
+    #   time: Tue 17:00-18:00
+    #   location: Online
+    # - section: TUT02
+    #   time: Fri 11:00-12:00
+    #   location: Online
+    # - section: TUT03
+    #   time: Tue 9:00-10:00
+    #   location: Online
+    # - section: TUT04
+    #   time: Mon 12:00-13:00
+    #   location: Online
         
         
-first: 20200907
+first: 20210906
