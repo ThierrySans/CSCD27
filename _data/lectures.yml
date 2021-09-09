@@ -1,5 +1,5 @@
 - week: Introduction
-  link: https://utoronto.zoom.us/j/81869016590
+  link: https://youtu.be/SMkotdCR2LE
   notes:
       Course Introduction: 01/CSCD27-Introduction
       Definitions: 01/CSCD27-Definitions
@@ -8,6 +8,7 @@
       Security Engineering: http://www.cl.cam.ac.uk/~rja14/Papers/SE-01.pdf
 
 - week: Classical Cryptography
+  link: https://utoronto.zoom.us/j/81869016590
   # notes:
   #     Classical Cryptography: 02/CSCD27-ClassicalCryptography
 
