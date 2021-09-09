@@ -1,9 +1,9 @@
 - week: Introduction
   link: https://utoronto.zoom.us/j/81389709916
-  # notes:
-  #     Course Introduction: 01/CSCD27-Introduction
-  #     Definitions: 01/CSCD27-Definitions
-  #     Risk Management Analysis: 01/CSCD27-RiskManagementAnalysis
+  notes:
+      Course Introduction: 01/CSCD27-Introduction
+      Definitions: 01/CSCD27-Definitions
+      Risk Management Analysis: 01/CSCD27-RiskManagementAnalysis
   readings:
       Security Engineering: http://www.cl.cam.ac.uk/~rja14/Papers/SE-01.pdf
 
