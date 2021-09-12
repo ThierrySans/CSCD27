@@ -39,21 +39,21 @@ We encourage you to post questions regarding course materials and assignments on
 <div class="grid">
     <div class="hrow row">
         <div class="hcolumn col-xs-3 col-sm-3"></div>
-        <div class="col-xs-3 col-sm-3">Role</div>
         <div class="col-xs-3 col-sm-3">Office Hours</div>
+        <div class="col-xs-3 col-sm-3">Location</div>
         <div class="col-xs-3 col-sm-3">Contact</div>
     </div>
     <div class="row">
         <div class="hcolumn col-xs-3 col-sm-3">Thierry Sans</div>
-        <div class="col-xs-3 col-sm-3">LEC</div>
-        <div class="col-xs-3 col-sm-3">{{site.data.settings.instructor.hours}} ({{site.data.settings.instructor.location}})</div>
+        <div class="col-xs-3 col-sm-3">{{site.data.settings.instructor.hours}}</div>
+        <div class="col-xs-3 col-sm-3">{{site.data.settings.instructor.location}}</div>
         <div class="col-xs-3 col-sm-3">{{site.data.settings.instructor.contact}}</div>
     </div>
     {% for a in site.data.settings.assistants %}
     <div class="row">
         <div class="hcolumn col-xs-3 col-sm-3">{{a.name}}</div>
-        <div class="col-xs-3 col-sm-3">{{a.role}}</div>
-        <div class="col-xs-3 col-sm-3">{{a.hours}} ({{a.location}})</div>
+        <div class="col-xs-3 col-sm-3">{{a.hours}}</div>
+        <div class="col-xs-3 col-sm-3">{{a.location}}</div>
         <div class="col-xs-3 col-sm-3">{{a.contact}}</div>
     </div>
     {% endfor %}
@@ -65,14 +65,16 @@ We encourage you to post questions regarding course materials and assignments on
 <div class="grid">
     <div class="hrow row">
         <div class="hcolumn col-xs-3 col-sm-3"></div>
-        <div class="col-xs-6 col-sm-6">Time</div>
+        <div class="col-xs-3 col-sm-3">Time</div>
         <div class="col-xs-3 col-sm-3">Location</div>
+        <div class="col-xs-3 col-sm-3">Instructor</div>
     </div>
     {% for t in site.data.settings.timings %}
     <div class="row">
         <div class="hcolumn col-xs-3 col-sm-3">{{t.section}}</div>
-        <div class="col-xs-6 col-sm-6">{{t.time}}</div>
+        <div class="col-xs-3 col-sm-3">{{t.time}}</div>
         <div class="col-xs-3 col-sm-3">{{t.location}}</div>
+        <div class="col-xs-3 col-sm-3">{{t.instructor}}</div>
     </div>
     {% endfor %}
 </div>
