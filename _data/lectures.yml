@@ -13,7 +13,7 @@
       Classical Cryptography: 02/CSCD27-ClassicalCryptography
 
 - week: Symmetric Cryptography, Hash Functions and Protocols
-  link: https://utoronto.zoom.us/j/81869016590
+  link: https://youtu.be/4JGj_9_ZQLg
   notes:
       Symmetric Encryption: 03/CSCD27-SymmetricEncryption
       Hash Functions: 03/CSCD27-CryptographicHashFunctions
@@ -25,6 +25,7 @@
       Authenticated Encryption: http://cseweb.ucsd.edu/~mihir/papers/oem.pdf
 
 - week: Public-key Cryptography, Digital Signatures and Protocols
+  link: https://utoronto.zoom.us/j/81869016590
   # notes:
   #     Asymmetric Encryption: 04/CSCD27-AsymmetricEncryption
   #     Asymmetric Protocols: 04/CSCD27-AsymmetricProtocols
