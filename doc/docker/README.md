@@ -84,7 +84,7 @@ Here is a small Docker cheat sheet:
   $ docker run -v $(pwd):/shared ubuntu ls /shared
   ```
 
-- Run with the current working path 
+- Run with the current working path (avoid having spaces in your current working path)
   ```
   $ docker run -v $(pwd):/shared -w /shared ubuntu ls
   ```
