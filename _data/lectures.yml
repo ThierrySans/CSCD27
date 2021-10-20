@@ -47,8 +47,8 @@
 
 - week: Network Security
   link: https://utoronto.zoom.us/j/81869016590
-  # notes:
-  #     Network Security: 06/CSCD27-NetworkSecurity
+  notes:
+      Network Security: 06/CSCD27-NetworkSecurity
   readings:
       The First Few Milliseconds of an HTTPS Connection: http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html
       The risks of mixed-content with HTTPS: https://www.youtube.com/watch?v=CSmacMZ0xZo
