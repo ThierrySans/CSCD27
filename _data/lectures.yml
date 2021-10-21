@@ -46,7 +46,7 @@
 - break: <span class="em">Reading Week</span>
 
 - week: Network Security
-  link: https://utoronto.zoom.us/j/81869016590
+  link: https://youtu.be/iOP7tAePruI
   notes:
       Network Security: 06/CSCD27-NetworkSecurity
   readings:
@@ -55,6 +55,7 @@
       How Does Tor Really Work? The Definitive Visual Guide (2019): https://skerritt.blog/how-does-tor-really-work/
 
 - week: Human Authentication
+  link: https://utoronto.zoom.us/j/81869016590
   # notes:
   #     Human Authentication: 07/CSCD27-HumanAuthentication
 
