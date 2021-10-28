@@ -55,11 +55,12 @@
       How Does Tor Really Work? The Definitive Visual Guide (2019): https://skerritt.blog/how-does-tor-really-work/
 
 - week: Human Authentication
-  link: https://utoronto.zoom.us/j/81869016590
+  link: https://youtu.be/vVel9jrACuE
   notes:
       Human Authentication: 07/CSCD27-HumanAuthentication
 
 - week: OS and Program Insecurity
+  link: https://utoronto.zoom.us/j/81869016590
   readings: 
      Smashing The Stack For Fun And Profit: http://phrack.org/issues/49/14.html
   # notes:
