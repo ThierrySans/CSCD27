@@ -56,8 +56,8 @@
 
 - week: Human Authentication
   link: https://utoronto.zoom.us/j/81869016590
-  # notes:
-  #     Human Authentication: 07/CSCD27-HumanAuthentication
+  notes:
+      Human Authentication: 07/CSCD27-HumanAuthentication
 
 - week: OS and Program Insecurity
   readings: 
