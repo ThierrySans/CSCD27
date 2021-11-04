@@ -63,8 +63,8 @@
   link: https://utoronto.zoom.us/j/81869016590
   readings: 
      Smashing The Stack For Fun And Profit: http://phrack.org/issues/49/14.html
-  # notes:
-  #     System Insecurity: 08/CSCD27-SystemInsecurity
+  notes:
+      System Insecurity: 08/CSCD27-SystemInsecurity
   
 - week: Protection
   readings:
