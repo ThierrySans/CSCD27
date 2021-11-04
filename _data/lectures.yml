@@ -60,13 +60,14 @@
       Human Authentication: 07/CSCD27-HumanAuthentication
 
 - week: OS and Program Insecurity
-  link: https://utoronto.zoom.us/j/81869016590
+  link: https://youtu.be/0DjFjmzTmjU
   readings: 
      Smashing The Stack For Fun And Profit: http://phrack.org/issues/49/14.html
   notes:
       System Insecurity: 08/CSCD27-SystemInsecurity
   
 - week: Protection
+  link: https://utoronto.zoom.us/j/81869016590
   readings:
       Stack Overflows - Defeating Canaries, ASLR, DEP, NX: https://security.stackexchange.com/questions/20497/stack-overflows-defeating-canaries-aslr-dep-nx
   # notes:
