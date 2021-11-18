@@ -74,13 +74,15 @@
       System Security: 09/CSCD27-Protection
 
 - week: Malicious Software
-  link: https://utoronto.zoom.us/j/81869016590
+  link: https://youtu.be/eA926XSUVu0
   notes:
       Malicious Software: 10/CSCD27-MaliciousSoftware
+      Data Breach Case Studies: 10/Security Data Breach Case Studies.pdf
   readings:
       Google Analysis of Web-based Malware: http://www.usenix.org/events/hotbots07/tech/full_papers/provos/provos.pdf
 
 - week: Web Security
+  link: https://utoronto.zoom.us/j/81869016590
   # notes:
   #     Web Security: 11/CSCD27-WebSecurity
 

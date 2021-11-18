@@ -30,7 +30,12 @@ permalink: /lectures/
         <div class="notes">
                         <ul>
                             {% for note in e.notes %}
-                                <li><a href="{{note[1]}}">{{note[0]}}</a> <a href="{{note[1]}}.pdf">(pdf)</a></li>
+                                {% assign ext = note[1] | split: "." | last %}
+                                {% if ext == "pdf" %}
+                                	<li><a href="{{note[1]}}">{{note[0]}}</a></li>
+                                {% else %}
+                                	<li><a href="{{note[1]}}">{{note[0]}}</a> <a href="{{note[1]}}.pdf">(pdf)</a></li>
+                                {% endif %}
         					{% endfor %}
                         </ul>
         </div>
