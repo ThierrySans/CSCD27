@@ -23,7 +23,7 @@ In this tutorial, you are asked to explain all stack protection mechanisms and i
 
 7. What is a non executable stack and how does it work? 
 8. How to enable it on Linux? 
-9. There is actually no difference at all between `auth-all-disable.x86` and `auth-all-disable.x86`, why?
+9. There is actually no difference at all between `auth-all-disable.x86` and `auth-nex-disable.x86`, why?
 
 ### ASLR - Address Space Layout Randomization
     
