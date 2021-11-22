@@ -29,8 +29,8 @@
 - week: Stack Protection
   handout: 10/
 
-- week: Protection and Malware
-  # handout: 11/
+- week: Malware
+  handout: 11/
 
 - week: Web Security
   # handout: 12/
