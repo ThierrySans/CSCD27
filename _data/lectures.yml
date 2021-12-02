@@ -88,7 +88,7 @@
 
 - week: Social Engineering
   link: https://utoronto.zoom.us/j/81869016590
-  # notes:
-  #     Web Security: 12/CSCD27-SocialEngineering
+  notes:
+      Web Security: 12/CSCD27-SocialEngineering
   readings:
       Handcrafted Fraud and Extortion - Manual Account Hijacking in the Wild: http://services.google.com/fh/files/blogs/google_hijacking_study_2014.pdf
