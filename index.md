@@ -30,7 +30,7 @@ Upon successful completion of this course, students will:
 
 No assumptions are made about prior exposure to security-related ideas. Some mathematical topics will be covered (finite fields, modular arithmetic, number theory), but not in as much depth as in the MATC16 Cryptography course. These topics are necessary for a proper understanding of modern cryptography, which today is centered around difficult mathematical problems that cannot be solved by brute force computing power, but instead can be solved only with access to a trap-door (key). No assumptions are made about your math background; all the required concepts will be introduced as needed in the course.
 
-This course requires a good understanding of the x86 computer architecture (CSCB58) ans good C/UNIX system programming skills (CSCB09).
+This course requires a good understanding of the x86 computer architecture (CSCB58) and good C/UNIX system programming skills (CSCB09).
 
 ## Course Staff
 

@@ -7,7 +7,7 @@
   absolute: False
 
 - title: Piazza
-  url:  https://piazza.com/utoronto.ca/fall2021/cscd27
+  url:  https://piazza.com/utoronto.ca/winter2024/cscd27
   absolute: True
 
 - title: Github
@@ -15,5 +15,5 @@
   absolute: True
   
 - title: Feedback
-  url: https://forms.gle/TeF5i79wLTLf87za6
+  url: https://forms.gle/bg1FEvrwJJefu6XK6
   absolute: True
