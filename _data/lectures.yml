@@ -38,8 +38,6 @@
   readings:
       Intercepting Mobile Communications - The Insecurity of 802.11: http://www.cs.colorado.edu/~rhan/CSCI_7143_001_Fall_2002/Papers/Borisov2001_Insecure802_11.pdf
 
-- break: <span class="em">Reading Week</span>
-
 - week: Network Security
   # notes:
   #     Network Security: 06/CSCD27-NetworkSecurity
@@ -47,6 +45,8 @@
       The First Few Milliseconds of an HTTPS Connection: http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html
       The risks of mixed-content with HTTPS: https://www.youtube.com/watch?v=CSmacMZ0xZo
       How Does Tor Really Work? The Definitive Visual Guide (2019): https://skerritt.blog/how-does-tor-really-work/
+
+- break: <span class="em">Reading Week</span>
 
 - week: Human Authentication
   # notes:
