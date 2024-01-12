@@ -14,56 +14,67 @@ instructor:
   website: https://thierrysans.github.io/
   github: ThierrySans
   twitter: ThierrySans
-  hours: TBD
+  hours: Mon 11 AM - 12 PM
   location: IC 346
   contact: Piazza only (no email)
 
 # https://www.fingerlakesbmw.org/main/flobfuscate.php
 assistants:
-    # - name: Alexander Greff
-    #   contact: "&#97;&#108;&#101;&#120;&#46;&#103;&#114;&#101;&#102;&#102;&#64;&#109;&#97;&#105;&#108;&#46;&#117;&#116;&#111;&#114;&#111;&#110;&#116;&#111;&#46;&#99;&#97;"
-    #   hours: Fri 3-4 PM
-    #   location: <a href="https://utoronto.zoom.us/j/87843211186">Zoom</a>
-
+    - name: Shaopeng (Chris) Lin
+      contact: "shaopeng.lin@mail."
+      hours: Mon 3-4 PM
+      location: IC 402
+    - name: Noor Nasri
+      contact: "noor.nasri@mail."
+      hours: Wed 1-2 PM
+      location: IC 402
+    - name: Junheng (Clark) Wang
+      contact: "junheng.wang@mail."
+      hours: Tue 6-7 PM
+      location: IC 402
+    - name: Lianting Wang
+      contact: "lianting.wang@mail."
+      hours: Thu 5-6 PM
+      location: IC 402
 
   
 timings:
     - section: LEC01
       time: Thu 1-3 PM
       location: SW 143
-      instructor: Thierry Sans
+      instructor: Thierry
     - section: PRA01
       time: Tue 1-2 PM
       location: BV 473
-      instructor: TBD
+      instructor: Junheng
     - section: PRA02
       time: Wed 12-1 PM
       location: BV 473
-      instructor: TBD
+      instructor: Noor
     - section: PRA03
       time: Thu 4-5 PM
       location: BV 473
-      instructor: TBD
+      instructor: Chris
     - section: PRA04
       time: Thu 3-4 PM
       location: BV 473
-      instructor: TBD
+      instructor: Lianting
     - section: TUT01
       time: Tue 5-6 PM
       location: HL B101
-      instructor: TBD
+      instructor: Junheng
     - section: TUT02
       time: Tue 2-3 PM
       location: IC 230
-      instructor: TBD
+      instructor: Chris
     - section: TUT03
       time: Tue 9-10 AM
       location: IC 230
-      instructor: TBD
+      instructor: Lianting
     - section: TUT04
       time: Fri 1-2 PM
       location: SW 143
-      instructor: TBD
+      instructor: Noor
         
         
 first: 20240108

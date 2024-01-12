@@ -6535,6 +6535,9 @@ button.close {
     display: none !important;
   }
 }
+.spam {
+  display: none;
+}
 .light {
   color: #FF9900;
 }
