@@ -11,10 +11,10 @@
       Classical Cryptography: 02/CSCD27-ClassicalCryptography
 
 - week: Symmetric Cryptography, Hash Functions and Protocols
-  # notes:
-  #     Symmetric Encryption: 03/CSCD27-SymmetricEncryption
-  #     Hash Functions: 03/CSCD27-CryptographicHashFunctions
-  #     Symmetric Protocols: 03/CSCD27-SymmetricProtocols
+  notes:
+      Symmetric Encryption: 03/CSCD27-SymmetricEncryption
+      Hash Functions: 03/CSCD27-CryptographicHashFunctions
+      Symmetric Protocols: 03/CSCD27-SymmetricProtocols
   readings:
       AES Standard: http://csrc.nist.gov/publications/fips/fips197/fips-197.pdf
       Rijndael Proposal for AES Competition: http://csrc.nist.gov/archive/aes/rijndael/Rijndael-ammended.pdf
