@@ -19,7 +19,7 @@
       AES Standard: http://csrc.nist.gov/publications/fips/fips197/fips-197.pdf
       Rijndael Proposal for AES Competition: http://csrc.nist.gov/archive/aes/rijndael/Rijndael-ammended.pdf
       Illustrated Guide to Secure Hash Functions: http://www.unixwiz.net/techtips/iguide-crypto-hashes.html
-      Authenticated Encryption: http://cseweb.ucsd.edu/~mihir/papers/oem.pdf
+      Authenticated Encryption: https://eprint.iacr.org/2000/025.pdf
 
 - week: Public-key Cryptography, Digital Signatures and Protocols
   # notes:
