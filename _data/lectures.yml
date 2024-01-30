@@ -22,10 +22,10 @@
       Authenticated Encryption: https://eprint.iacr.org/2000/025.pdf
 
 - week: Public-key Cryptography, Digital Signatures and Protocols
-  # notes:
-  #     Asymmetric Encryption: 04/CSCD27-AsymmetricEncryption
-  #     Asymmetric Protocols: 04/CSCD27-AsymmetricProtocols
-  #     Quantum Computing and Quantum Cryptography: 04/CSCD27-Quantum
+  notes:
+      Asymmetric Encryption: 04/CSCD27-AsymmetricEncryption
+      Asymmetric Protocols: 04/CSCD27-AsymmetricProtocols
+      Quantum Computing and Quantum Cryptography: 04/CSCD27-Quantum
   readings:
       The original RSA paper: http://people.csail.mit.edu/rivest/Rsapaper.pdf
       Programming Satan’s Computer: https://www.cl.cam.ac.uk/~rja14/Papers/satan.pdf
