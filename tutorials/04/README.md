@@ -20,7 +20,7 @@ Unfortunately, Mallory is not able to read those transactions since they are [XO
 
 3. The bank is now using a proper stream cipher `Ek(m) = Dk(m) = m + RNG(k || seed)` with another 128 bits key and the ATM ID used as nonce (that Mallory still does not know). Could Mallory crack the key using the same approach as question 2? 
 
-4. Instead of using the ATM ID, the bank is now using the transaction ID as nonce (but still using the same key). The transaction ID is unique to each transaction. Could Mallory crack the key using the same approach as question 3?
+4. Instead of using the ATM ID, the bank is now using the transaction ID (repeated twice) as nonce (but still using the same key). The transaction ID is unique to each transaction. Could Mallory crack the key using the same approach as question 3?
 
 ## Block Cipher (and Block Cipher modes)
 
