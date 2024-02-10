@@ -5,20 +5,6 @@ permalink: /exams/midterm/
 
 # CSCD27 Midterm
 
-## Instructions
-
-During the exam:
-
-- you are allowed to use any course material posted on the D27 course website, Seclab and Piazza
-- you are allowed to look at your own challenge solutions and your own notes
-- you are allowed to ask private questions to the instructor on Zoom but please join the Zoom discussion room if and only if you have a question.
-
-However:
-
-- you are not allowed to search anything online during the exam (except D27 course website and SecLab)
-- you are not allowed to discuss the content of the midterm with anyone either physically or anywhere online up until 4H after the beginning of the midterm (to accommodate accessibility students)
-- you are not allowed to ask questions on Piazza until 4H after the beginning of the midterm
-
 
 ## Introduction
 
