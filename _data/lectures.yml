@@ -49,8 +49,8 @@
 - break: <span class="em">Reading Week</span>
 
 - week: Human Authentication
-  # notes:
-  #     Human Authentication: 07/CSCD27-HumanAuthentication
+  notes:
+      Human Authentication: 07/CSCD27-HumanAuthentication
 
 - week: OS and Program Insecurity
   readings: 
