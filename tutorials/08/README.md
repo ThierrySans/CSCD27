@@ -33,9 +33,9 @@ Assuming that we hack into their server and download their (lame) database of un
 
 4. For all types of attack, how long would it take to:
 
-    - brute-force 1 password for m users
-    - brute-force m passwords for 1 user
-    - brute force m passwords for n users
+    - brute-force 1 specific password instance for m users
+    - brute-force m specific password instances  for 1 user
+    - brute force m specific password instances for n users
 
 5. If we use rainbow tables, how long would it take to:
 
