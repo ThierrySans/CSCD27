@@ -64,16 +64,15 @@
   notes:
       System Security: 09/CSCD27-Protection
 
+- week: Web Security
+  notes:
+      Web Security: 10/CSCD27-WebSecurity
+
 - week: Malicious Software
   # notes:
-  #     Malicious Software: 10/CSCD27-MaliciousSoftware
-  #     Data Breach Case Studies: 10/Security Data Breach Case Studies.pdf
+  #     Malicious Software: 11/CSCD27-MaliciousSoftware
   readings:
       Google Analysis of Web-based Malware: http://www.usenix.org/events/hotbots07/tech/full_papers/provos/provos.pdf
-
-- week: Web Security
-  # notes:
-  #     Web Security: 11/CSCD27-WebSecurity
 
 - week: Social Engineering
   # notes:
