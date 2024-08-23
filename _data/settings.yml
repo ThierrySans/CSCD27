@@ -1,12 +1,12 @@
 # Site settings
 ref: CSCD27
 title: Computer and Network Security
-edition: Winter 2024
+edition: Fall 2024
 description: This course is meant to offer Computer Science undergraduate students a broad overview of the field of computer security. Students will learn the basic concepts in computer security including software vulnerability analysis and defense, networking security, applied cryptography. Students will also learn the fundamental methodology for how to design and analyze the security of critical systems.
 website: https://thierrysans.me/CSCD27/
 github: https://github.com/ThierrySans/CSCD27
-piazza: https://piazza.com/utoronto.ca/winter2024/cscd27
-feedback: https://forms.gle/bg1FEvrwJJefu6XK6
+piazza: https://piazza.com/utoronto.ca/fall2024/cscd27
+feedback: https://forms.gle/TKwBjAZhez9c49Zs9
 
 instructor:
   name: Thierry Sans
@@ -14,67 +14,23 @@ instructor:
   website: https://thierrysans.github.io/
   github: ThierrySans
   twitter: ThierrySans
-  hours: Thu 10 AM - 11 AM
-  location: IC 346
+  hours: TBD
+  location: IA 4124
   contact: Piazza only (no email)
 
 # https://www.fingerlakesbmw.org/main/flobfuscate.php
 assistants:
-    - name: Shaopeng (Chris) Lin
-      contact: "shaopeng.lin@mail."
-      hours: Mon 3-4 PM
-      location: IC 402
-    - name: Noor Nasri
-      contact: "noor.nasri@mail."
-      hours: Wed 1-2 PM
-      location: IC 402
-    - name: Junheng (Clark) Wang
-      contact: "junheng.wang@mail."
-      hours: Tue 6-7 PM
-      location: IC 402
-    - name: Lianting Wang
-      contact: "lianting.wang@mail."
-      hours: Thu 5-6 PM
-      location: IC 402
+    # - name: Shaopeng (Chris) Lin
+    #   contact: "shaopeng.lin@mail."
+    #   hours: Mon 3-4 PM
+    #   location: IC 402
 
   
 timings:
     - section: LEC01
-      time: Thu 1-3 PM
-      location: SW 143
+      time: Thu 11 AM - 1 PM
+      location: SW 128
       instructor: Thierry
-    - section: PRA01
-      time: Tue 1-2 PM
-      location: BV 473
-      instructor: Junheng
-    - section: PRA02
-      time: Wed 12-1 PM
-      location: BV 473
-      instructor: Noor
-    - section: PRA03
-      time: Thu 4-5 PM
-      location: BV 473
-      instructor: Lianting
-    - section: PRA04
-      time: Thu 3-4 PM
-      location: BV 473
-      instructor: Chris
-    - section: TUT01
-      time: Tue 5-6 PM
-      location: HL B101
-      instructor: Junheng
-    - section: TUT02
-      time: Tue 2-3 PM
-      location: IC 230
-      instructor: Chris
-    - section: TUT03
-      time: Tue 9-10 AM
-      location: IC 230
-      instructor: Lianting
-    - section: TUT04
-      time: Fri 1-2 PM
-      location: SW 143
-      instructor: Noor
         
         
-first: 20240108
+first: 20240902
