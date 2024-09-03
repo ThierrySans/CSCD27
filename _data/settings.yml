@@ -14,7 +14,7 @@ instructor:
   website: https://thierrysans.github.io/
   github: ThierrySans
   twitter: ThierrySans
-  hours: TBD
+  hours: Thursday 2-4 PM
   location: IA 4124
   contact: Piazza only (no email)
 
@@ -25,12 +25,10 @@ assistants:
     #   hours: Mon 3-4 PM
     #   location: IC 402
 
-  
 timings:
     - section: LEC01
       time: Thu 11 AM - 1 PM
       location: SW 128
       instructor: Thierry
-        
         
 first: 20240902
