@@ -22,19 +22,19 @@ assistants:
     - name: Tyler Cong 
       contact: "tyler.cong@mail."
       hours: Monday 7-8 PM
-      location: CS Help Center
+      location: IC 402
     - name: Ben Wilson
       contact: "benw.wilson@mail."
       hours: Tuesday 2 PM
-      location: CS Help Center 
+      location: IC 402
     - name: Tina Zamiri
       contact: "t.zamiri@mail."
       hours: Wednesday 3-4 PM
-      location: CS Help Center
+      location: IC 402
     - name: Kevin Zhang
       contact: "kwei.zhang@mail."
       hours: Friday 7-8 PM
-      location: CS Help Center
+      location: IC 402
 
 timings:
     - section: LEC01
