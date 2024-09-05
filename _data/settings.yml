@@ -10,7 +10,6 @@ feedback: https://forms.gle/TKwBjAZhez9c49Zs9
 
 instructor:
   name: Thierry Sans
-  email: thierry.sans@utoronto.ca
   website: https://thierrysans.github.io/
   github: ThierrySans
   twitter: ThierrySans
@@ -20,10 +19,22 @@ instructor:
 
 # https://www.fingerlakesbmw.org/main/flobfuscate.php
 assistants:
-    # - name: Shaopeng (Chris) Lin
-    #   contact: "shaopeng.lin@mail."
-    #   hours: Mon 3-4 PM
-    #   location: IC 402
+    - name: Tyler Cong 
+      contact: "tyler.cong@mail."
+      hours: Monday 7-8 PM
+      location: CS Help Center
+    - name: Ben Wilson
+      contact: "benw.wilson@mail."
+      hours: Tuesday 2 PM
+      location: CS Help Center 
+    - name: Tina Zamiri
+      contact: "t.zamiri@mail."
+      hours: Wednesday 3-4 PM
+      location: CS Help Center
+    - name: Kevin Zhang
+      contact: "kwei.zhang@mail."
+      hours: Friday 7-8 PM
+      location: CS Help Center
 
 timings:
     - section: LEC01
