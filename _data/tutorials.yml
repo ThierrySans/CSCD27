@@ -1,15 +1,15 @@
 - week: no tutorial
 
-- week: Risk Assessment Analysis
+- week: Classical Cryptography
   handout: 02/
 
-- week: Classical Cryptography
-  # handout: 03/
-
 - week: Symmetric Cryptography
+  handout: 03/
+
+- week: Assymmetric Cryptography and Authenticated Encryption
   # handout: 04/
 
-- week: Assymmetric Cryptography
+- week: Key Exchange and Authentication
   # handout: 05/
   
 - week: Network insecurity
