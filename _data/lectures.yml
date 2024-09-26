@@ -24,10 +24,9 @@
       Authenticated Encryption: https://eprint.iacr.org/2000/025.pdf
 
 - week: Cryptography Protocols
-  # notes:
-  #     Asymmetric Encryption: 04/CSCD27-AsymmetricEncryption
-  #     Asymmetric Protocols: 04/CSCD27-AsymmetricProtocols
-  #     Quantum Computing and Quantum Cryptography: 04/CSCD27-Quantum
+  notes:
+      Cryptographic Protocols: 04/CSCD27-CryptographicProtocols
+      Quantum Computing and Quantum Cryptography: 04/CSCD27-Quantum
   readings:
       Programming Satan’s Computer: https://www.cl.cam.ac.uk/~rja14/Papers/satan.pdf
       How does SSL/TLS work? : https://security.stackexchange.com/questions/20803/how-does-ssl-tls-work
