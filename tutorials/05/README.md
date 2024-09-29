@@ -28,10 +28,10 @@ In the second scenario, we use a Key Distribution Center that will distribute se
 
 TLS 1.3 has only two rounds: 
 
-- A -> B: $nA$, $ecdhA$
-- ​B -> A: $nB$, $ecdhB$, $[certB, sign(H(nA || nB || ecdhA || ecdhB || certB))]k$
+- *A* -> *B*: *n~A*, *ecdh~A*
+- ​*B* -> *A*: *n~B*, *ecdh~B*, *[cert~B, sign(H(n~A || n~B || ecdh~A || ecdh~B || cert~B))]~k*
 
-9. What are $ecdhA$ and $ecdhB$?
+9. What are *ecdh~A* and *ecdh~B*?
 10. When Alice's receives the message from Bob, what does she need to compute and verify? 
 11. Why Mallory cannot do a replay attack on Bob's response? 
 12. In TLS/SSL, how does Alice's browser trust a certificate supplied by Bob's website? 
