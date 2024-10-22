@@ -21,7 +21,7 @@ Assuming that we use a password cracking tool that tries different login/passwor
 3. How long would it take to:
 
     - brute-force the password for 1 user
-    - brute force the password for n users
+    - brute force the password for m users
 
 ## Cracking unsalted hash passwords
 
@@ -35,12 +35,12 @@ Assuming that we hack into their server and download their (lame) database of un
 
     - brute-force 1 specific password instance for m users
     - brute-force m specific password instances  for 1 user
-    - brute force m specific password instances for n users
+    - brute force n specific password instances for m users
 
 5. If we use rainbow tables, how long would it take to:
 
     - crack the password of 1 user
-    - crack the password of n users
+    - crack the password of m users
 
 ## Cracking salted hash passwords
 
