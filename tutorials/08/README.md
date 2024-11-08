@@ -48,7 +48,7 @@ Assuming now that the passwords are salted (each user has a different salt).
 
 6. For all types of attack, how long would it take to:
 
-    - brute-force 1 password for m users
+    - brute-force 1 password for n users
     - brute-force m passwords for 1 user
     - brute force m passwords for n users
     
