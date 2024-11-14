@@ -65,8 +65,8 @@
       System Security: 09/CSCD27-Protection
 
 - week: Web Security
-  # notes:
-  #     Web Security: 10/CSCD27-WebSecurity
+  notes:
+      Web Security: 10/CSCD27-WebSecurity
 
 - week: Malicious Software
   # notes:
