@@ -75,7 +75,7 @@
       Google Analysis of Web-based Malware: http://www.usenix.org/events/hotbots07/tech/full_papers/provos/provos.pdf
 
 - week: Social Engineering
-  # notes:
-  #     Web Security: 12/CSCD27-SocialEngineering
+  notes:
+      Web Security: 12/CSCD27-SocialEngineering
   readings:
       Handcrafted Fraud and Extortion - Manual Account Hijacking in the Wild: http://services.google.com/fh/files/blogs/google_hijacking_study_2014.pdf
