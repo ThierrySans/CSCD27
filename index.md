@@ -136,11 +136,15 @@ You are expected to comply with the [Code of Behaviour on Academic Matters](http
 
 Assignment solutions must be prepared individually, except where an assignment handout or FAQ explicitly allows working with a partner. Note that working with a partner may be restricted to just part of an assignment, such as programming task, whereas the rest of the assignment must be solved by an individual.
 
+When the assignment handout allows you to use snippets of code from the web, you should cite the source in the source code. As a rule of thumb, any piece of code larger than 5 lines that has been copied and re-used as is or even slightly modified must be clearly referenced. However, any piece of code larger than 25 lines should not be re-used. However, you are not allowed to use any AI assistant to produce assignment code or writeup.
+
 You may discuss assignments with other students, for example to clarify the requirements of an assignment, to work through examples that help you understand the technology used for an assignment, or to learn how to configure your system to run a supporting piece of software used in an assignment. However, collaboration at the level of answering written questions or designing and writing code, is strictly forbidden. Written problems and programming assignments must be answered, designed and coded by you alone, using the text, your own notes, and other texts and Web sources as aids.
 
 Do not let other students look at your assignment solutions, since this can lead to copying. Remember you are in violation of the UTSC Academic Code whether you copy someone else's work or allow someone else to copy your work. These rules are meant to ensure that all students understand their solutions well enough to prepare the solutions themselves. If challenged you must be able to reproduce and explain your work.
 
 You are not allowed to look at solutions available online and you are not allowed to make your solution publicly available online as well, even after the class term. 
+
+You are not allowed to ask for help outside of the course Piazza. Asking for help anywhere else online or in private chat groups will be considered as unauthorized help. 
 
 The course staff reserves the right to use code and text analysis tools to compare your submission with others to verify that no improper collaboration has occurred.
 

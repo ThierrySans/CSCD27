@@ -1,45 +1,37 @@
 # Site settings
 ref: CSCD27
 title: Computer and Network Security
-edition: Fall 2024
+edition: Fall 2025
 description: This course is meant to offer Computer Science undergraduate students a broad overview of the field of computer security. Students will learn the basic concepts in computer security including software vulnerability analysis and defense, networking security, applied cryptography. Students will also learn the fundamental methodology for how to design and analyze the security of critical systems.
 website: https://thierrysans.me/CSCD27/
 github: https://github.com/ThierrySans/CSCD27
-piazza: https://piazza.com/utoronto.ca/fall2024/cscd27
-feedback: https://forms.gle/TKwBjAZhez9c49Zs9
+piazza: https://piazza.com/utoronto.ca/fall2025/cscd27
+feedback: https://forms.gle/jpnHzx6LNvu9hXma9
 
 instructor:
   name: Thierry Sans
   website: https://thierrysans.github.io/
   github: ThierrySans
   twitter: ThierrySans
-  hours: Thursday 2-4 PM
+  hours: TBD
   location: IA 4124
   contact: Piazza only (no email)
 
 # https://www.fingerlakesbmw.org/main/flobfuscate.php
 assistants:
-    - name: Tyler Cong 
-      contact: "tyler.cong@mail."
-      hours: Monday 7-8 PM
-      location: IC 402
-    - name: Ben Wilson
-      contact: "benw.wilson@mail."
-      hours: Tuesday 2 PM
-      location: IC 402
-    - name: Tina Zamiri
-      contact: "t.zamiri@mail."
-      hours: Wednesday 3-4 PM
-      location: IC 402
-    - name: Kevin Zhang
-      contact: "kwei.zhang@mail."
-      hours: Friday 7-8 PM
-      location: IC 402
+    # - name: Tyler Cong
+    #   contact: Piazza only
+    #   hours: Monday 7-8 PM
+    #   location: IC 402
 
 timings:
     - section: LEC01
+      time: Tue 1 PM - 2 PM
+      location: IC 130
+      instructor: Thierry Sans
+    - section: LEC01
       time: Thu 11 AM - 1 PM
-      location: SW 128
-      instructor: Thierry
+      location: IC 220
+      instructor: Thierry Sans
         
-first: 20240902
+first: 20250901

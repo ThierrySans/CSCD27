@@ -6581,9 +6581,6 @@ button.close {
     padding-right: 15px;
     padding-left: 30px;
   }
-  #main #news {
-    display: none !important;
-  }
   a[href]:after {
     content: none !important;
   }
