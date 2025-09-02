@@ -19,10 +19,18 @@ instructor:
 
 # https://www.fingerlakesbmw.org/main/flobfuscate.php
 assistants:
-    # - name: Tyler Cong
-    #   contact: Piazza only
-    #   hours: Monday 7-8 PM
-    #   location: IC 402
+    - name: Kaiwei Zhang
+      contact: Piazza only
+      hours: Wed 6 - 7 PM
+      location: IA 3180 (CS Help Center)
+    - name: Ruofan Chen
+      contact: Piazza only
+      hours: Mon 11 AM - 12 PM
+      location: IA 3180 (CS Help Center)
+    - name: Chris Lin
+      contact: Piazza only
+      hours: Tue 11 AM - 12 PM
+      location: IA 3180 (CS Help Center)
 
 timings:
     - section: LEC01
