@@ -54,7 +54,7 @@ We encourage you to post questions regarding course materials and assignments on
         <div class="hcolumn col-xs-4 col-sm-4">{{a.name}}</div>
         <div class="col-xs-3 col-sm-3">{{a.hours}}</div>
         <div class="col-xs-3 col-sm-2">{{a.location}}</div>
-        <div class="col-xs-3 col-sm-3">{{a.contact}}<span class="spam">whatever</span>utoronto.ca</div>
+        <div class="col-xs-3 col-sm-3">{{a.contact}}</div>
     </div>
     {% endfor %}
 </div>
