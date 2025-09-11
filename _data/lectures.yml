@@ -9,7 +9,7 @@
 - week: Modern Cryptography
   notes:
       Symmetric Cryptography: 02/CSCD27-SymmetricEncryption
-  #     Asymmetric Cryptography: 02/CSCD27-AsymmetricEncryption
+      Asymmetric Cryptography: 02/CSCD27-AsymmetricEncryption
       
   readings:
       Rijndael Proposal for AES Competition: http://csrc.nist.gov/archive/aes/rijndael/Rijndael-ammended.pdf
