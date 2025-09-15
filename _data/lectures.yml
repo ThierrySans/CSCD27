@@ -8,17 +8,15 @@
 
 - week: Modern Cryptography
   notes:
-      Symmetric Cryptography: 02/CSCD27-SymmetricEncryption
-      Asymmetric Cryptography: 02/CSCD27-AsymmetricEncryption
-      
+      Protecting Confidentiliaty: 02/CSCD27-ProtectingConfidentiality
   readings:
       Rijndael Proposal for AES Competition: http://csrc.nist.gov/archive/aes/rijndael/Rijndael-ammended.pdf
       AES Standard: http://csrc.nist.gov/publications/fips/fips197/fips-197.pdf
       The original RSA paper: http://people.csail.mit.edu/rivest/Rsapaper.pdf
 
 - week: Hash Functions, Message Authentication Code and Digital Signature
-  # notes:
-  #     Protecting Integrity: 03/CSCD27-ProtectingIntegrity
+  notes:
+      Protecting Integrity: 03/CSCD27-ProtectingIntegrity
   readings:
       Illustrated Guide to Secure Hash Functions: http://www.unixwiz.net/techtips/iguide-crypto-hashes.html
       Authenticated Encryption: https://eprint.iacr.org/2000/025.pdf
