@@ -24,7 +24,7 @@
 - week: Cryptography Protocols
   notes:
       Cryptographic Protocols: 04/CSCD27-CryptographicProtocols
-  #     Quantum Computing and Quantum Cryptography: 04/CSCD27-Quantum
+      Quantum Computing and Quantum Cryptography: 04/CSCD27-Quantum
   readings:
       Programming Satan’s Computer: https://www.cl.cam.ac.uk/~rja14/Papers/satan.pdf
       How does SSL/TLS work? : https://security.stackexchange.com/questions/20803/how-does-ssl-tls-work
