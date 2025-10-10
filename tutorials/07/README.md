@@ -5,19 +5,22 @@ permalink: /tutorials/07/
 
 # Network Security
 
-Two companies A, located in Canada, and B, located in France, want to collaborate on a super secret project. Each company has its own internal network with private servers and they want to allow the employees from the other company to access them.
+A new startup in Toronto is setting up its office network and asks for your help.
 
-These two companies have hired you as a consultant to help them to enable their collaboration wile keeping their project secret. They are giving you a list of concerns: 
+The company has 4 employees, each with a laptop, and 3 servers: a web server and a mail server that must be accessible from the internet, and a NAS (Network-Attached Storage) server used internally for file sharing among employees.
 
-- if the network is opened to the "outside", anybody could connect to their servers? Is there any way to prevent that? 
-- someone outside of their network might be able to eavesdrop or hijack their communication?
-- people might suspect that the two are working on super secret project if they see the type of communication they have?
+Initially, assume that all laptops and servers are connected to a Wi-Fi network and each device has a public IP address (to simplify).
+All employees work exclusively from the office for now.
 
-For each concern, they are asking you to:
+1. **Securing the Wi-Fi Network:** The company wants a simple setup with an SSID and shared password. However, they also want to let guests use the same Wi-Fi network and password; even though guests are not fully trusted. What Wi-Fi protection mechanism would you recommend?
 
-1. explain whether it is a valid concern by explaining them how they could be attacked or not
-2. help them secure their networks by providing the best and the most straightforward solution to their concern
+2. **Controlling Inbound and Outbound Traffic:** The company wants to prevent random internet users from scanning or accessing internal machines. Only HTTP (port 80/443) traffic to the web server, and IMAP (port 143/993) to the mail server should be reachable from the internet. All outbound traffic from internal hosts should be allowed. What security mechanism(s) should be deployed?
 
+3. **Preventing Lateral Movement After a Breach:** The company fears that if an attacker compromises the web or mail server, they might move laterally to access the internal NAS. What network design would mitigate this risk?
+
+4. **Allowing Remote Work Securely:** Now, the company wants employees to access the NAS from home or while traveling. How can employees securely connect to the internal network from remote locations?
+
+5. **Connecting Two Offices Securely:** After expanding to Paris, the company now has an office in Toronto with public servers and a NAS, and  Paris office with employee laptops and a local NAS. Employees from both offices need seamless access to either NAS as if they were on the same local network. What do you recommend to securely connect the two offices?
 
 
 
