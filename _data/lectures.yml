@@ -45,8 +45,8 @@
       How Does Tor Really Work? The Definitive Visual Guide (2019): https://skerritt.blog/how-does-tor-really-work/
 
 - week: Human Authentication
-  # notes:
-  #     Human Authentication: 07/CSCD27-HumanAuthentication
+  notes:
+      Human Authentication: 07/CSCD27-HumanAuthentication
 
 - week: OS and Program Insecurity
   readings: 
