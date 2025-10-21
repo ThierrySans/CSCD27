@@ -8,6 +8,9 @@ _site
 Thumbs.db
 .DS_Store
 
+# Python venv
+venv
+
 # Node modules 
 node_modules/*
 
