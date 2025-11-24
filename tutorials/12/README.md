@@ -5,8 +5,6 @@ permalink: /tutorials/12/
 
 ## Malware
 
-## Malware
-
 1. In a malware, what is the difference between the payload and the infection vector?
 
 2. What is the difference between static analysis and dynamic analysis? 
