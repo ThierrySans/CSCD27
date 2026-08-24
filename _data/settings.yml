@@ -1,12 +1,12 @@
 # Site settings
 ref: CSCD27
 title: Computer and Network Security
-edition: Fall 2025
+edition: Fall 2026
 description: This course is meant to offer Computer Science undergraduate students a broad overview of the field of computer security. Students will learn the basic concepts in computer security including software vulnerability analysis and defense, networking security, applied cryptography. Students will also learn the fundamental methodology for how to design and analyze the security of critical systems.
 website: https://thierrysans.me/CSCD27/
 github: https://github.com/ThierrySans/CSCD27
-piazza: https://piazza.com/utoronto.ca/fall2025/cscd27
-feedback: https://forms.gle/jpnHzx6LNvu9hXma9
+piazza: https://piazza.com/utoronto.ca/fall2026/cscd27
+feedback: https://forms.gle/QrgDekrkqteoBU3R6
 
 instructor:
   name: Thierry Sans
@@ -19,27 +19,27 @@ instructor:
 
 # https://www.fingerlakesbmw.org/main/flobfuscate.php
 assistants:
-    - name: Kaiwei Zhang
-      contact: Piazza only
-      hours: Fri 3:20 - 4:30 PM
-      location: IA 3180 (CS Help Center)
-    - name: Ruofan Chen
-      contact: Piazza only
-      hours: Mon 11 AM - 12 PM
-      location: IA 3180 (CS Help Center)
-    - name: Chris Lin
-      contact: Piazza only
-      hours: Tue 11 AM - 12 PM
-      location: IA 3180 (CS Help Center)
+    # - name: Kaiwei Zhang
+    #   contact: Piazza only
+    #   hours: Fri 3:20 - 4:30 PM
+    #   location: IA 3180 (CS Help Center)
+    # - name: Ruofan Chen
+    #   contact: Piazza only
+    #   hours: Mon 11 AM - 12 PM
+    #   location: IA 3180 (CS Help Center)
+    # - name: Chris Lin
+    #   contact: Piazza only
+    #   hours: Tue 11 AM - 12 PM
+    #   location: IA 3180 (CS Help Center)
 
 timings:
     - section: LEC01
       time: Tue 1 - 2 PM
-      location: IC 130
+      location: IA 2040
       instructor: Thierry Sans
     - section: LEC01
       time: Thu 11 AM - 1 PM
-      location: IC 220
+      location: SW 143
       instructor: Thierry Sans
         
-first: 20250901
+first: 20260907

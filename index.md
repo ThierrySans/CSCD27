@@ -104,7 +104,7 @@ The numeric marks of CTF challenges, quizzes and final exam will be used to comp
     </div>
     <div class="row">
         <div class="hcolumn col-xs-8 col-sm-8">CTF challenges</div>
-        <div class="col-xs-4 col-sm-4">60%</div>
+        <div class="col-xs-4 col-sm-4">50%</div>
     </div>
     <div class="row">
         <div class="hcolumn col-xs-8 col-sm-8">Midterm Exam</div>
@@ -112,13 +112,13 @@ The numeric marks of CTF challenges, quizzes and final exam will be used to comp
     </div>
     <div class="row">
         <div class="hcolumn col-xs-8 col-sm-8">Final Exam</div>
-        <div class="col-xs-4 col-sm-4">25%</div>
+        <div class="col-xs-4 col-sm-4">35%</div>
     </div>
 </div>
 
 If your final mark is higher than midterm exam score, the midterm mark will be dropped and its weight will be added to the final exam. Moreover, there will not be any makeup midterm if you miss the midterm exam (whatever the reason). 
 
-Marks of at least 50% on the final exam are required to pass the course. If you receive less than 50% on either the project or the final exam, your overall course grade will be capped at 45.
+Marks of at least 50% on the final exam are required to pass the course. If you receive less than 50% on the final exam, your overall course grade will be capped at 45.
 
 ## Submission Policy
 
