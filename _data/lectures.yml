@@ -2,7 +2,7 @@
   notes:
       Course Introduction: 01/CSCD27-Introduction
       Definitions: 01/CSCD27-Definitions
-  #     Classical Cryptography: 01/CSCD27-ClassicalCryptography
+      Classical Cryptography: 01/CSCD27-ClassicalCryptography
   readings:
       Security Engineering: http://www.cl.cam.ac.uk/~rja14/Papers/SE-01.pdf
 
