@@ -19,18 +19,18 @@ instructor:
 
 # https://www.fingerlakesbmw.org/main/flobfuscate.php
 assistants:
-    # - name: Kaiwei Zhang
-    #   contact: Piazza only
-    #   hours: Fri 3:20 - 4:30 PM
-    #   location: IA 3180 (CS Help Center)
-    # - name: Ruofan Chen
-    #   contact: Piazza only
-    #   hours: Mon 11 AM - 12 PM
-    #   location: IA 3180 (CS Help Center)
-    # - name: Chris Lin
-    #   contact: Piazza only
-    #   hours: Tue 11 AM - 12 PM
-    #   location: IA 3180 (CS Help Center)
+    - name: Jeremy Janella
+      contact: Piazza only
+      hours: Mon 11 AM - 12 PM
+      location: IA 3180 (CS Help Center)
+    - name: Sadra Setarehdan
+      contact: Piazza only
+      hours: Wed 5:30 PM - 6:30 PM
+      location: IA 3180 (CS Help Center)
+    - name: Arshiya Mahmoodinezhad
+      contact: Piazza only
+      hours: Tue 12 PM - 1 PM
+      location: IA 3180 (CS Help Center)
 
 timings:
     - section: LEC01
