@@ -7,8 +7,8 @@
       Security Engineering: http://www.cl.cam.ac.uk/~rja14/Papers/SE-01.pdf
 
 - week: Modern Cryptography
-  # notes:
-  #     Protecting Confidentiliaty: 02/CSCD27-ProtectingConfidentiality
+  notes:
+      Protecting Confidentiliaty: 02/CSCD27-ProtectingConfidentiality
   readings:
       Rijndael Proposal for AES Competition: http://csrc.nist.gov/archive/aes/rijndael/Rijndael-ammended.pdf
       AES Standard: http://csrc.nist.gov/publications/fips/fips197/fips-197.pdf
