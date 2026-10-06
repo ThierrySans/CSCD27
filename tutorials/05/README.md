@@ -50,5 +50,5 @@ Assume that Alice is sending a GPG message to Bob:
 2. Explain how Bob can verify that the message comes from Alice?
 3. Explain how Alice can encrypt her message `m` using GPG
 4. Explain how Bob can decrypt the message from Alice
-5. Explain how GPG does protect against replay attack
-6. Explain how GPG does not ensure Perfect-Forward Secrecy?
+5. Explain why GPG does not protect against replay attack.
+6. Explain why GPG does not ensure Perfect-Forward Secrecy.
