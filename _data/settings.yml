@@ -19,10 +19,6 @@ instructor:
 
 # https://www.fingerlakesbmw.org/main/flobfuscate.php
 assistants:
-    - name: Jeremy Janella
-      contact: Piazza only
-      hours: Mon 11 AM - 12 PM
-      location: IA 3180 (CS Help Center)
     - name: Arshiya Mahmoodinezhad
       contact: Piazza only
       hours: Tue 12 PM - 1 PM
@@ -30,6 +26,10 @@ assistants:
     - name: Sadra Setarehdan
       contact: Piazza only
       hours: Wed 1:30 PM - 2:30 PM
+      location: IA 3180 (CS Help Center)
+    - name: Jeremy Janella
+      contact: Piazza only
+      hours: Fri 11 AM - 12 PM
       location: IA 3180 (CS Help Center)
 
 timings:
