@@ -67,8 +67,8 @@
       Web Security: 10/CSCD27-WebSecurity
 
 - week: Malicious Software
-  # notes:
-  #     Malicious Software: 11/CSCD27-MaliciousSoftware
+  notes:
+      Malicious Software: 11/CSCD27-MaliciousSoftware
   readings:
       Google Analysis of Web-based Malware: http://www.usenix.org/events/hotbots07/tech/full_papers/provos/provos.pdf
 
